@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+  "decimals": 18,
+  "name": "DeFiYieldProtocol",
+  "symbol": "DYP",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo.png",
+  "tokenColor": "#e40414"
+}

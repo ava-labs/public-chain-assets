@@ -1,0 +1,13 @@
+{
+  "address": "0x783C08b5F26E3daf8C4681F3bf49844e425b6393",
+  "chainId": 43114,
+  "name": "Avaware USD",
+  "symbol": "AUSD",
+  "decimals": 18,
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "assetType": "Stablecoin",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo.png",
+  "tokenColor": "#141f14"
+}

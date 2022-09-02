@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
+  "decimals": 18,
+  "name": "AlphaToken",
+  "symbol": "ALPHA.e",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f/logo.png",
+  "tokenColor": "#163386"
+}

@@ -1,0 +1,13 @@
+{
+  "chainId": 43114,
+  "address": "0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D",
+  "decimals": 18,
+  "name": "Stabilize USD",
+  "symbol": "SUSD",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "assetType": "Stablecoin",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D/logo.png",
+  "tokenColor": "#fafbfb"
+}

@@ -1,0 +1,11 @@
+{
+  "address": "0xA11f52cd55900e7faf0daca7F2BA1DF8df30AdDd",
+  "decimals": 18,
+  "name": "xCrystal",
+  "symbol": "xCRYSTAL",
+  "chainId": 53935,
+  "description": "",
+  "contractType": "ERC-20",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/53935/contracts/0xA11f52cd55900e7faf0daca7F2BA1DF8df30AdDd/logo.png",
+  "tokenColor": "#4a637e"
+}
