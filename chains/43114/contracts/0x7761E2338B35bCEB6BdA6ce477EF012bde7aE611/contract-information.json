@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611",
+  "decimals": 18,
+  "name": "chikn egg",
+  "symbol": "EGG",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611/logo.png",
+  "tokenColor": "#e85a58"
+}

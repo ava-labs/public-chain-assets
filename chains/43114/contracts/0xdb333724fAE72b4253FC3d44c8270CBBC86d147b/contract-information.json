@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xdb333724fAE72b4253FC3d44c8270CBBC86d147b",
+  "decimals": 18,
+  "name": "Cabbage.Cash",
+  "symbol": "CABAG",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0xdb333724fAE72b4253FC3d44c8270CBBC86d147b/logo.png",
+  "tokenColor": "#83b956"
+}

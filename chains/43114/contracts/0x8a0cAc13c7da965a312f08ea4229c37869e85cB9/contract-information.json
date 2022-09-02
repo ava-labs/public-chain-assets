@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
+  "decimals": 18,
+  "name": "Graph Token",
+  "symbol": "GRT.e",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9/logo.png",
+  "tokenColor": "#4445b0"
+}

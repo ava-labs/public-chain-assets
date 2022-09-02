@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
+  "decimals": 18,
+  "name": "Binance",
+  "symbol": "BNB",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0x264c1383EA520f73dd837F915ef3a732e204a493/logo.png",
+  "tokenColor": "#f4bc2c"
+}

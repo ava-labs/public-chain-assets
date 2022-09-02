@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x45C13620B55C35A5f539d26E88247011Eb10fDbd",
+  "decimals": 18,
+  "name": "Hurricane Token",
+  "symbol": "HCT",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Cross-chain Liquidity DEX on Avalanche. ",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0x45C13620B55C35A5f539d26E88247011Eb10fDbd/logo.png",
+  "tokenColor": "#edeaf2"
+}

@@ -1,0 +1,9 @@
+{
+  "address": "0x9f378F48d0c1328fd0C80d7Ae544C6CadB5Ba99E",
+  "decimals": 18,
+  "name": "CRYSTAL-AVAX LP Token",
+  "symbol": "JEWEL-LP",
+  "chainId": 53935,
+  "description": "",
+  "contractType": "ERC-20"
+}

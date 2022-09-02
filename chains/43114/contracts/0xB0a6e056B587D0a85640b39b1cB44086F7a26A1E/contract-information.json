@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E",
+  "decimals": 18,
+  "name": "OddzToken",
+  "symbol": "ODDZ",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo.png",
+  "tokenColor": "#207efb"
+}

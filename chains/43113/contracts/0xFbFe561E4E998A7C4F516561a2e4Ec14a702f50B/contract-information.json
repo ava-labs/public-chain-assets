@@ -1,0 +1,12 @@
+{
+  "chainId": 43113,
+  "address": "0xFbFe561E4E998A7C4F516561a2e4Ec14a702f50B",
+  "symbol": "CON",
+  "name": "Connor Coin",
+  "decimals": 18,
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43113/contracts/0xFbFe561E4E998A7C4F516561a2e4Ec14a702f50B/logo.png",
+  "tokenColor": "#483a2e"
+}

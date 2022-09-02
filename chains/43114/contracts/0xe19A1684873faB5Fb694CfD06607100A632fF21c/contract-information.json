@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xe19A1684873faB5Fb694CfD06607100A632fF21c",
+  "decimals": 18,
+  "name": "BavaToken",
+  "symbol": "BAVA",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0xe19A1684873faB5Fb694CfD06607100A632fF21c/logo.png",
+  "tokenColor": "#efd247"
+}

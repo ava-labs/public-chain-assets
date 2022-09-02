@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2",
+  "decimals": 18,
+  "name": "HERMES Shares",
+  "symbol": "HSHARES",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2/logo.png",
+  "tokenColor": "#d4d0c1"
+}

@@ -1,0 +1,13 @@
+{
+  "address": "0x3509f19581aFEDEff07c53592bc0Ca84e4855475",
+  "chainId": 43114,
+  "name": "xDollar Stablecoin",
+  "symbol": "xUSD",
+  "decimals": 18,
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "assetType": "Stablecoin",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0x3509f19581aFEDEff07c53592bc0Ca84e4855475/logo.png",
+  "tokenColor": "#fbfafb"
+}
