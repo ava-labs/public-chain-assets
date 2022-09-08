@@ -1,0 +1,12 @@
+{
+  "address": "0x360d6DD540E3448371876662FBE7F1aCaf08c5Ab",
+  "decimals": 6,
+  "name": "Terra USD",
+  "symbol": "UST",
+  "chainId": 53935,
+  "description": "",
+  "contractType": "ERC-20",
+  "assetType": "Stablecoin",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/53935/contracts/0x360d6DD540E3448371876662FBE7F1aCaf08c5Ab/logo.png",
+  "tokenColor": "#5592f1"
+}

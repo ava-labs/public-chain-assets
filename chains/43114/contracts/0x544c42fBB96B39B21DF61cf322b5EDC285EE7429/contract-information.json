@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+  "decimals": 18,
+  "name": "INSUR Token",
+  "symbol": "INSUR",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png",
+  "tokenColor": "#e6f2ec"
+}
