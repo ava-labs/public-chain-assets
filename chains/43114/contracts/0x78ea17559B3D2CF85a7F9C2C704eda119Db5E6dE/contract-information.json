@@ -1,0 +1,12 @@
+{
+  "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
+  "name": "Avaware",
+  "symbol": "AVE",
+  "contractType": "ERC-20",
+  "decimals": 18,
+  "resourceLinks": [],
+  "chainId": 43114,
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png",
+  "tokenColor": "#1a1224"
+}

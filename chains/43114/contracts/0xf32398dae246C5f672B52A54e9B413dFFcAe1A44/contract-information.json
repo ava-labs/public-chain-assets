@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xf32398dae246C5f672B52A54e9B413dFFcAe1A44",
+  "decimals": 18,
+  "name": "Kassandra",
+  "symbol": "KACY",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0xf32398dae246C5f672B52A54e9B413dFFcAe1A44/logo.png",
+  "tokenColor": "#814348"
+}

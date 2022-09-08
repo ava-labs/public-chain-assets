@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0",
+  "decimals": 18,
+  "name": "Boo Finance Token",
+  "symbol": "BOOFI",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0/logo.png",
+  "tokenColor": "#ebf3f7"
+}

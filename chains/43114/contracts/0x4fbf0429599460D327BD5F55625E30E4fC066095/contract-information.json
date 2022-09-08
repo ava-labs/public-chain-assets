@@ -1,0 +1,13 @@
+{
+  "address": "0x4fbf0429599460D327BD5F55625E30E4fC066095",
+  "chainId": 43114,
+  "name": "TSD",
+  "symbol": "TSD",
+  "decimals": 18,
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "assetType": "Stablecoin",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo.png",
+  "tokenColor": "#ccd0c8"
+}
