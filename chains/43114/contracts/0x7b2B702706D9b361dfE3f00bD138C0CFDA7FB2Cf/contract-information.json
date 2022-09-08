@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf",
+  "decimals": 18,
+  "name": "Pollen",
+  "symbol": "PLN",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png",
+  "tokenColor": "#fb2f56"
+}
