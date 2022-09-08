@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xd9D90f882CDdD6063959A9d837B05Cb748718A05",
+  "decimals": 18,
+  "name": "More Token",
+  "symbol": "MORE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0xd9D90f882CDdD6063959A9d837B05Cb748718A05/logo.png",
+  "tokenColor": "#4895c1"
+}

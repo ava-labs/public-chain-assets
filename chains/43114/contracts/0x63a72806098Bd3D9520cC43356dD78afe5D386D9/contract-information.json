@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+  "decimals": 18,
+  "name": "Aave Token",
+  "symbol": "AAVE.e",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0x63a72806098Bd3D9520cC43356dD78afe5D386D9/logo.png",
+  "tokenColor": "#7285b2"
+}

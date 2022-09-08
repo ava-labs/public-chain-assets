@@ -1,0 +1,12 @@
+{
+  "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+  "name": "Avalaunch",
+  "symbol": "XAVA",
+  "contractType": "ERC-20",
+  "decimals": 18,
+  "resourceLinks": [],
+  "chainId": 43114,
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png",
+  "tokenColor": "#fcf3f3"
+}

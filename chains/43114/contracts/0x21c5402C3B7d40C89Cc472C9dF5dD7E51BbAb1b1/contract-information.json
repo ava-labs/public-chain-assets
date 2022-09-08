@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1",
+  "decimals": 18,
+  "name": "TundraToken",
+  "symbol": "TUNDRA",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Yield Farm token and NFT Gamified Token ",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png",
+  "tokenColor": "#d9ecea"
+}

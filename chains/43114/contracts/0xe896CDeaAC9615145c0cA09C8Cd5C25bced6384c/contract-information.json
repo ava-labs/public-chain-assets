@@ -1,0 +1,12 @@
+{
+  "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
+  "name": "Penguin Finance",
+  "symbol": "PEFI",
+  "contractType": "ERC-20",
+  "decimals": 18,
+  "resourceLinks": [],
+  "chainId": 43114,
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/logo.png",
+  "tokenColor": "#c93a3a"
+}
