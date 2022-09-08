@@ -1,0 +1,11 @@
+{
+  "address": "0xa5c47B4bEb35215fB0CF0Ea6516F9921591c3aCE",
+  "decimals": 18,
+  "name": "Crystals",
+  "symbol": "CRYSTAL",
+  "chainId": 335,
+  "description": "",
+  "contractType": "ERC-20",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/335/contracts/0xa5c47B4bEb35215fB0CF0Ea6516F9921591c3aCE/logo.png",
+  "tokenColor": "#4a637e"
+}

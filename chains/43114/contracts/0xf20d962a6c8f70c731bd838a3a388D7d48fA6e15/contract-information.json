@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
+  "decimals": 18,
+  "name": "Ether",
+  "symbol": "ETH",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png",
+  "tokenColor": "#f3f3f3"
+}

@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
+  "decimals": 18,
+  "name": "Dai Stablecoin",
+  "symbol": "DAI",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png",
+  "tokenColor": "#fcb933"
+}

@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xb27c8941a7Df8958A1778c0259f76D1F8B711C35",
+  "decimals": 18,
+  "name": "Kalao Token",
+  "symbol": "KLO",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35/logo.png",
+  "tokenColor": "#fbfcfc"
+}

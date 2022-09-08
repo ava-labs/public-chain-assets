@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x596fA47043f99A4e0F122243B841E55375cdE0d2",
+  "decimals": 18,
+  "name": "0x Protocol Token",
+  "symbol": "ZRX.e",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0x596fA47043f99A4e0F122243B841E55375cdE0d2/logo.png",
+  "tokenColor": "#fafafa"
+}

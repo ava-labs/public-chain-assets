@@ -1,0 +1,13 @@
+{
+  "chainId": 43114,
+  "address": "0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11",
+  "decimals": 6,
+  "name": "Axelar Wrapped UST",
+  "symbol": "UST",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "assetType": "Stablecoin",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png",
+  "tokenColor": "#4373d5"
+}

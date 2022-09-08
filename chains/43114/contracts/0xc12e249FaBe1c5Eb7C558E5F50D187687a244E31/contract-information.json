@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31",
+  "decimals": 18,
+  "name": "Blue Token",
+  "symbol": "BLUE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png",
+  "tokenColor": "#3e8ba9"
+}

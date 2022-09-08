@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xbca7f1998Dc9FFB70b086543a808960a460aBcA7",
+  "decimals": 18,
+  "name": "Kitty",
+  "symbol": "KITTY",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Revolutionizing the world of decentralized betting, Binary Cat allows users to bet on the price of crypto assets.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b7f38b5/chains/43114/contracts/0xbca7f1998Dc9FFB70b086543a808960a460aBcA7/logo.png",
+  "tokenColor": "#aad0d0"
+}
