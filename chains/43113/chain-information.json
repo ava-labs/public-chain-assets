@@ -1,0 +1,33 @@
+{
+  "chainName": "Avalanche (C-Chain)",
+  "description": "The Contract Chain on Avalanche's test subnet.",
+  "chainId": 43113,
+  "platformChainId": "yH8D7ThNJkxmtkuv2jgBa4P1Rn3Qpr4pPr7QYNfcdoS6k6HWp",
+  "subnetId": "11111111111111111111111111111111LpoYY",
+  "vmId": "mgj786NP7uDwBCcq6YwThhaN8FLyybkCa4zBWTQbNgmK6k9A6",
+  "vmName": "EVM",
+  "subnetExplorerUriId": "c-chain",
+  "explorerUrl": "https://testnet.snowtrace.io",
+  "rpcUrl": "https://api.avax-test.network/ext/bc/C/rpc",
+  "wsUrl": "wss://api.avax-test.network/ext/bc/C/ws",
+  "isTestnet": true,
+  "networkToken": {
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "decimals": 18,
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e04b75b/chains/43113/token-logo.png"
+  },
+  "utilityAddresses": {
+    "multicall": "0xE898101ffEF388A8DA16205249a7E4977d4F034c"
+  },
+  "pricingProviders": {
+    "coingecko": {
+      "assetPlatformId": "avalanche",
+      "nativeTokenId": "avalanche-2"
+    }
+  },
+  "network": "avalanche",
+  "primaryColor": "#f34333",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e04b75b/chains/43113/chain-logo.png"
+}

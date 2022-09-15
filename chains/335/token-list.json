@@ -1,0 +1,103 @@
+[
+  {
+    "address": "0x0B608dE616aeC05df2da2BA3179f48e318060E2c",
+    "name": "UniswapV2Factory",
+    "chainId": 335,
+    "description": "",
+    "contractType": "Other"
+  },
+  {
+    "address": "0x1465e00a408edA9acd34B9F310317C12214b7c4b",
+    "name": "Validator Fund",
+    "chainId": 335,
+    "description": "",
+    "contractType": "Other"
+  },
+  {
+    "address": "0x17BACEde8d9D76D5FF92b975f04Ea27D39c37249",
+    "name": "Multicall2",
+    "chainId": 335,
+    "description": "",
+    "contractType": "Other"
+  },
+  {
+    "address": "0x249CACA3b06c507aA55A56a9E6D3D3f6F3EBadb9",
+    "name": "Jeweler",
+    "chainId": 335,
+    "description": "",
+    "contractType": "Other"
+  },
+  {
+    "address": "0x33Bb4C3393082245Ea993Bf808b66F90F63dDBBD",
+    "decimals": 18,
+    "name": "Crystal Pool",
+    "chainId": 335,
+    "description": "",
+    "contractType": "Other"
+  },
+  {
+    "address": "0x3C351E1afdd1b1BC44e931E12D4E05D6125eaeCa",
+    "decimals": 18,
+    "name": "xJEWEL",
+    "symbol": "XJEWEL",
+    "chainId": 335,
+    "description": "",
+    "contractType": "ERC-20",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/335/contracts/0x3C351E1afdd1b1BC44e931E12D4E05D6125eaeCa/logo.png",
+    "tokenColor": "#d6db60"
+  },
+  {
+    "address": "0x602daa4Db4778Cb958b161F11574b4A206606b4B",
+    "decimals": 18,
+    "name": "Wrapped JEWEL",
+    "symbol": "WJEWEL",
+    "chainId": 335,
+    "description": "",
+    "contractType": "ERC-20",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/335/contracts/0x602daa4Db4778Cb958b161F11574b4A206606b4B/logo.png",
+    "tokenColor": "#d6db60"
+  },
+  {
+    "address": "0x992Bdf6a1B1c91BBA89765cd7B5a60894c6180a0",
+    "decimals": 18,
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "chainId": 335,
+    "description": "",
+    "contractType": "ERC-20",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/335/contracts/0x992Bdf6a1B1c91BBA89765cd7B5a60894c6180a0/logo.png",
+    "tokenColor": "#fefdfd"
+  },
+  {
+    "address": "0xA4bd37AF549fb310c874d969fE2BA39D6765008f",
+    "name": "Airdrop Claim",
+    "chainId": 335,
+    "description": "",
+    "contractType": "Other"
+  },
+  {
+    "address": "0xFeA55b65D30d44dE3a7fd92376A75f2F34bf5593",
+    "name": "Master Gardener",
+    "chainId": 335,
+    "description": "",
+    "contractType": "Other"
+  },
+  {
+    "address": "0xa5c47B4bEb35215fB0CF0Ea6516F9921591c3aCE",
+    "decimals": 18,
+    "name": "Crystals",
+    "symbol": "CRYSTAL",
+    "chainId": 335,
+    "description": "",
+    "contractType": "ERC-20",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/335/contracts/0xa5c47B4bEb35215fB0CF0Ea6516F9921591c3aCE/logo.png",
+    "tokenColor": "#d5ebee"
+  },
+  {
+    "address": "0xa92308fEfCc5dFB965B3aFf04beabF2b7014F251",
+    "name": "UniswapV2Router02",
+    "chainId": 335,
+    "description": "",
+    "contractType": "Other"
+  }
+]

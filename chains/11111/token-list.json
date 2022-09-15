@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0x67b37Cf1D5328429a366e6Fb9b0dc0B9A9ac157A",
+    "chainId": 11111,
+    "name": "Mikias Test Token",
+    "description": "This is a token to test out some features being built by Mikias.",
+    "contractType": "ERC-20",
+    "assetType": "Fixed Cap",
+    "symbol": "MTT",
+    "tags": [],
+    "resourceLinks": []
+  },
+  {
+    "address": "0xE41C7Aa055517ac433F3a0244DBaEfB6A937E127",
+    "chainId": 11111,
+    "name": "Mikias Test 5",
+    "description": "This is a test contract.",
+    "contractType": "ERC-20",
+    "assetType": "Fixed Cap",
+    "symbol": "MTT5",
+    "tags": [],
+    "resourceLinks": [],
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/11111/contracts/0xE41C7Aa055517ac433F3a0244DBaEfB6A937E127/logo.png",
+    "tokenColor": "#f7d229"
+  }
+]

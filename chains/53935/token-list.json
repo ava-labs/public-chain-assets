@@ -1,0 +1,205 @@
+[
+  {
+    "address": "0x04b9dA42306B023f3572e106B11D82aAd9D32EBb",
+    "decimals": 18,
+    "name": "Crystals",
+    "symbol": "CRYSTAL",
+    "description": "",
+    "assetType": "Unlimited Cap",
+    "contractType": "ERC-20",
+    "chainId": 53935,
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/53935/contracts/0x04b9dA42306B023f3572e106B11D82aAd9D32EBb/logo.png",
+    "tokenColor": "#d5ebee"
+  },
+  {
+    "address": "0x360d6DD540E3448371876662FBE7F1aCaf08c5Ab",
+    "decimals": 6,
+    "name": "Terra USD",
+    "symbol": "UST",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "ERC-20",
+    "assetType": "Stablecoin",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/53935/contracts/0x360d6DD540E3448371876662FBE7F1aCaf08c5Ab/logo.png",
+    "tokenColor": "#4c90fa"
+  },
+  {
+    "address": "0x3AD9DFE640E1A9Cc1D9B0948620820D975c3803a",
+    "decimals": 18,
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "ERC-20",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/53935/contracts/0x3AD9DFE640E1A9Cc1D9B0948620820D975c3803a/logo.png",
+    "tokenColor": "#fafcfe"
+  },
+  {
+    "address": "0x3C351E1afdd1b1BC44e931E12D4E05D6125eaeCa",
+    "name": "UniswapV2Router02",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "Other"
+  },
+  {
+    "address": "0x48658E69D741024b4686C8f7b236D3F1D291f386",
+    "decimals": 18,
+    "name": "JEWEL-CRYSTAL LP Token",
+    "symbol": "JEWEL-LP",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "ERC-20"
+  },
+  {
+    "address": "0x57Dec9cC7f492d6583c773e2E7ad66dcDc6940Fb",
+    "name": "MasterGardener",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "Other"
+  },
+  {
+    "address": "0x5b24224dC16508DAD755756639E420817DD4c99E",
+    "name": "Multicall2",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "Other"
+  },
+  {
+    "address": "0x6AC38A4C112F125eac0eBDbaDBed0BC8F4575d0d",
+    "decimals": 18,
+    "name": "JEWEL-xJEWEL LP Token",
+    "symbol": "JEWEL-LP",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "ERC-20"
+  },
+  {
+    "address": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
+    "name": "Layer Zero Relayer",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "Other"
+  },
+  {
+    "address": "0x77f2656d04E158f915bC22f07B779D94c1DC47Ff",
+    "decimals": 18,
+    "name": "xJEWEL",
+    "symbol": "xJEWEL",
+    "description": "",
+    "assetType": "Unlimited Cap",
+    "contractType": "ERC-20",
+    "chainId": 53935,
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/53935/contracts/0x77f2656d04E158f915bC22f07B779D94c1DC47Ff/logo.png",
+    "tokenColor": "#d6db60"
+  },
+  {
+    "address": "0x794C07912474351b3134E6D6B3B7b3b4A07cbAAa",
+    "name": "UniswapV2Factory",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "Other"
+  },
+  {
+    "address": "0x7bc5fD6b80067d6052A4550c69f152877bF7C748",
+    "name": "MessageBus",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "Other"
+  },
+  {
+    "address": "0x947873092dc57C1A70704033c41cB110f4462a8B",
+    "name": "Airdrop Claim",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "Other"
+  },
+  {
+    "address": "0x9f378F48d0c1328fd0C80d7Ae544C6CadB5Ba99E",
+    "decimals": 18,
+    "name": "CRYSTAL-AVAX LP Token",
+    "symbol": "JEWEL-LP",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "ERC-20"
+  },
+  {
+    "address": "0xA11f52cd55900e7faf0daca7F2BA1DF8df30AdDd",
+    "decimals": 18,
+    "name": "xCrystal",
+    "symbol": "xCRYSTAL",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "ERC-20",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/53935/contracts/0xA11f52cd55900e7faf0daca7F2BA1DF8df30AdDd/logo.png",
+    "tokenColor": "#d5ebee"
+  },
+  {
+    "address": "0xB57B60DeBDB0b8172bb6316a9164bd3C695F133a",
+    "decimals": 18,
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "ERC-20",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/53935/contracts/0xB57B60DeBDB0b8172bb6316a9164bd3C695F133a/logo.png",
+    "tokenColor": "#fefdfd"
+  },
+  {
+    "address": "0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260",
+    "decimals": 18,
+    "name": "Wrapped JEWEL",
+    "symbol": "WJEWEL",
+    "description": "",
+    "assetType": "Unlimited Cap",
+    "contractType": "ERC-20",
+    "chainId": 53935,
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/53935/contracts/0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260/logo.png",
+    "tokenColor": "#d6db60"
+  },
+  {
+    "address": "0xE05c976d3f045D0E6E7A6f61083d98A15603cF6A",
+    "name": "Synapse Bridge",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "Other",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/53935/contracts/0xE05c976d3f045D0E6E7A6f61083d98A15603cF6A/logo.png",
+    "tokenColor": "#985dff"
+  },
+  {
+    "address": "0xE9AbfBC143d7cef74b5b793ec5907fa62ca53154",
+    "name": "QuestCore",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "Other"
+  },
+  {
+    "address": "0xED6dC9FD092190C08e4afF8611496774Ded19D54",
+    "name": "Validator Fund",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "Other"
+  },
+  {
+    "address": "0xF3EabeD6Bd905e0FcD68FC3dBCd6e3A4aEE55E98",
+    "decimals": 18,
+    "name": "JEWEL-AVAX LP Token",
+    "symbol": "JEWEL-LP",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "ERC-20"
+  },
+  {
+    "address": "0xc390fAA4C7f66E4D62E59C231D5beD32Ff77BEf0",
+    "name": "HeroAuction",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "Other"
+  },
+  {
+    "address": "0xe4911B47ff0a1cbF5A4edDaC58fbc48ae09c8993",
+    "name": "Jeweler",
+    "chainId": 53935,
+    "description": "",
+    "contractType": "Other"
+  }
+]
