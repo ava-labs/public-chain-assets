@@ -16,7 +16,7 @@
     "symbol": "TUS",
     "description": "TUS is the gas token on the Swimmer Chain and used to pay gas for all transactions.",
     "decimals": 18,
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e04b75b/chains/73773/token-logo.png"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/73773/token-logo.png"
   },
   "utilityAddresses": {
     "multicall": "0x3e088976A6d37a559D2433F2cF1171a2397462a4"
@@ -47,5 +47,5 @@
   ],
   "network": "avalanche",
   "primaryColor": "#fb209a",
-  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e04b75b/chains/73773/chain-logo.png"
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/73773/chain-logo.png"
 }

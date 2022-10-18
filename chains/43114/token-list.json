@@ -8,8 +8,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "Arable Protocol is a synthetic yield farming protocol that is dedicated to helping yield farmers access multiple blockchains (such as Ethereum, Avalanche, Solana, Cosmos or Polygon) assets and yields on a single chain. The biggest challenge in earning high yields in the DeFi space is the need to bridge assets across chains, requiring constant bridge fees that limit returns. Arable is changing that by providing the first single chain platform that enables multi-chain farming. The platform is supported by incentivized collateral providers (aka. stakers or minters) for synthetic assets. Users receive the same rewards as they would on native chains.\r\n\r\nMany different blockchains are now supporting liquidity mining pools and providing incentive mechanisms, but the transfer of the assets between different chains takes time and fees and requires chain and bridge specific knowledge. This is leading users to feel confusing which chain to stick on for yield farming. Synthetic assets are essentially tokenized derivatives to support people to buy or sell specific assets on native assets’ price.\r\n\r\nARABLE’s goal is to provide an environment where yield farmers can access all the crypto farming assets on a single chain, where the users receive the same rewards as they would on native-chains. The environment is supported by incentivized collateral providers (aka. stakers or minters) for synthetic assets.",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x00EE200Df31b869a321B10400Da10b561F3ee60d/logo.png",
-    "tokenColor": "#bacfba"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x00EE200Df31b869a321B10400Da10b561F3ee60d/logo.png",
+    "tokenColor": "#b9c9b2"
   },
   {
     "chainId": 43114,
@@ -20,8 +20,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa/logo.png",
-    "tokenColor": "#3fd630"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa/logo.png",
+    "tokenColor": "#40db31"
   },
   {
     "chainId": 43114,
@@ -33,7 +33,7 @@
     "resourceLinks": [],
     "description": "H2O is the first stablecoin native to Avalanche. It is minted through over-collateralization using LPs from partner platforms. The H2O loans allow users to further build upon their positions by taking out an H2O loan against the LPs and using that H2O for further yields.",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png",
     "tokenColor": "#5392e3"
   },
   {
@@ -45,8 +45,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x027dbcA046ca156De9622cD1e2D907d375e53aa7/logo.png",
-    "tokenColor": "#8e7474"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x027dbcA046ca156De9622cD1e2D907d375e53aa7/logo.png",
+    "tokenColor": "#fbfbfb"
   },
   {
     "chainId": 43114,
@@ -57,8 +57,32 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665/logo.png",
     "tokenColor": "#ffbe57"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x056D114fF1e01dE3BCA30F0Efa3655DF42880e5B",
+    "decimals": 18,
+    "name": "KyteOne",
+    "symbol": "KTE",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x056D114fF1e01dE3BCA30F0Efa3655DF42880e5B/logo.png",
+    "tokenColor": "#e5dade"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x060556209E507d30f2167a101bFC6D256Ed2f3e1",
+    "decimals": 18,
+    "name": "xPTP",
+    "symbol": "xPTP",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Vector Finance is a ve-token yield optimizer building on top of Platypus Finance and Trader Joe. Vector enables users to generate boosted yields on these platforms without having to stake their native token.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x060556209E507d30f2167a101bFC6D256Ed2f3e1/logo.png",
+    "tokenColor": "#fdfdfe"
   },
   {
     "chainId": 43114,
@@ -69,8 +93,32 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x0659133127749Cc0616Ed6632912ddF7cc8D7545/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x0659133127749Cc0616Ed6632912ddF7cc8D7545/logo.png",
     "tokenColor": "#f2c546"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x0802d66f029c46E042b74d543fC43B6705ccb4ba",
+    "decimals": 18,
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x0802d66f029c46E042b74d543fC43B6705ccb4ba/logo.png",
+    "tokenColor": "#f4f9fe"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x093783055F9047C2BfF99c4e414501F8A147bC69",
+    "decimals": 18,
+    "name": "Dexalot Token",
+    "symbol": "ALOT",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Dexalot is a dex aiming at bringing the traditional centralized exchange look and feel to a decentralized on-chain application.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x093783055F9047C2BfF99c4e414501F8A147bC69/logo.png",
+    "tokenColor": "#ff3ca3"
   },
   {
     "chainId": 43114,
@@ -81,8 +129,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "TEDDY is a token that captures the fee revenue generated by the Teddy Cash Protocol via staking. Teddy Cash is a decentralized borrowing protocol that allows you to draw 0% interest loans against AVAX used as collateral. Loans are paid out in TSD and need to maintain a minimum collateral ratio of only 110%.\r\n\r\nIn addition to the collateral, the loans are secured by a Stability Pool containing TSD and by fellow borrowers collectively acting as guarantors of last resort.\r\n\r\nTeddy Cash as a protocol is non-custodial, immutable, and governance-free.",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png",
-    "tokenColor": "#f6f4f1"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png",
+    "tokenColor": "#f4f0f0"
   },
   {
     "chainId": 43114,
@@ -93,8 +141,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x0ebd9537A25f56713E34c45b38F421A1e7191469/logo.png",
-    "tokenColor": "#917575"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/21f1218/chains/43114/contracts/0x0ebd9537A25f56713E34c45b38F421A1e7191469/logo.png"
   },
   {
     "chainId": 43114,
@@ -106,8 +153,8 @@
     "resourceLinks": [],
     "description": "Moremoney is a protocol for borrowing stablecoin while earning interest on liquidity pool tokens and other collateral assets. The protocol can convert the most popular tokens, e.g., ETH, WBTC, USDT, AVAX, to ibTKNs\r\n\r\nMONEY is backed by a basket of decentralized crypto assets including AVAX, JOE, ETH, QI, and incentivised Trader Joe and Pangolin LP.",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png",
-    "tokenColor": "#40a5cd"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png",
+    "tokenColor": "#3d9dcc"
   },
   {
     "chainId": 43114,
@@ -118,8 +165,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE/logo.png",
-    "tokenColor": "#3d8eff"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE/logo.png",
+    "tokenColor": "#318eff"
   },
   {
     "chainId": 43114,
@@ -130,8 +177,33 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "Dragon Crypto Gaming (DCG), a Game-Fi platform which offers NFTs, play-to-earn games and yield farming.Our NFT project, Tiny Dragons (https://tinydragon.games/) saw all 1000 NFTs sold out in under 1 minutes. You can now use these Tiny Dragons to fight in the Arena using DCAU.\r\n\r\nDCAU will contain our first text-based play-to-earn RPG game.The initial supply of $DCAU is ~55k tokens, and is hard capped at 155k tokens. On this layer, the community will be able to see partner NFTs joining the Tiny Dragons Arena, auto-compounding vaults, and our very own in-game NFT marketplace to accompany our main RPG text based game. ALL of these features will help to burn $DCAU and create multiple revenue streams for the platform.\r\n\r\nWe are pushing ourselves to do even better as we progress through our roadmap which will eventually reach the final stage, layer 4, the permanent layer. As DCG advances to layer 4, we will launch a slew of exciting game updates, and optimize its integrated play-to-earn and yield farming ecosystem. Join us for the ride!",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png",
-    "tokenColor": "#b08812"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png",
+    "tokenColor": "#b18911"
+  },
+  {
+    "address": "0x111111111111ed1D73f860F57b2798b683f2d325",
+    "chainId": 43114,
+    "name": "YUSD Stablecoin",
+    "symbol": "YUSD",
+    "decimals": 18,
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "assetType": "Stablecoin",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x111111111111ed1D73f860F57b2798b683f2d325/logo.png",
+    "tokenColor": "#f0f7fc"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x1111111111182587795eF1098ac7da81a108C97a",
+    "decimals": 18,
+    "name": "Bold Point Token",
+    "symbol": "BPT",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Bold Point is a NFT-based RPG game where players slash enemies, play against other players and get rewards from their crafting skills in the real world.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x1111111111182587795eF1098ac7da81a108C97a/logo.png",
+    "tokenColor": "#dfab52"
   },
   {
     "chainId": 43114,
@@ -142,7 +214,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb/logo.png",
     "tokenColor": "#fbd737"
   },
   {
@@ -155,8 +227,20 @@
     "resourceLinks": [],
     "description": "",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png",
-    "tokenColor": "#f7d667"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png",
+    "tokenColor": "#ffde51"
+  },
+  {
+    "address": "0x136Acd46C134E8269052c62A67042D6bDeDde3C9",
+    "chainId": 43114,
+    "name": "MEMOries",
+    "symbol": "MEMO",
+    "decimals": 9,
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x136Acd46C134E8269052c62A67042D6bDeDde3C9/logo.png",
+    "tokenColor": "#c6f0ff"
   },
   {
     "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
@@ -172,6 +256,18 @@
   },
   {
     "chainId": 43114,
+    "address": "0x15c841043e13fFAA9a99FabEa236D40F45615623",
+    "decimals": 18,
+    "name": "$BUSINESSES",
+    "symbol": "BUSINESSES",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Tycoons are highly desirable, collectible NFTs, they also generate $BUSINESSES.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x15c841043e13fFAA9a99FabEa236D40F45615623/logo.png",
+    "tokenColor": "#4ac7f7"
+  },
+  {
+    "chainId": 43114,
     "address": "0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f",
     "decimals": 6,
     "name": "ENXT Token",
@@ -179,8 +275,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f/logo.png",
-    "tokenColor": "#eef6fc"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f/logo.png",
+    "tokenColor": "#f8fafb"
   },
   {
     "chainId": 43114,
@@ -192,8 +288,20 @@
     "resourceLinks": [],
     "description": "",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98/logo.png",
     "tokenColor": "#ffc200"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x1B88D7aD51626044Ec62eF9803EA264DA4442F32",
+    "decimals": 18,
+    "name": "ZooToken",
+    "symbol": "ZOO",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "ZooKeeper is an innovative multi-chain dApp, currently available on Avalanche and Wanchain, which uses ZooNFTs to boost liquidity mining.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x1B88D7aD51626044Ec62eF9803EA264DA4442F32/logo.png",
+    "tokenColor": "#f9f7f7"
   },
   {
     "chainId": 43114,
@@ -205,8 +313,8 @@
     "resourceLinks": [],
     "description": "",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB/logo.png",
-    "tokenColor": "#fefeff"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB/logo.png",
+    "tokenColor": "#fdfeff"
   },
   {
     "chainId": 43114,
@@ -217,8 +325,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "Dogeon is our first Play-to-Earn game, a project that brings joys and income to anyone out there. The project has been nested since early 2021. After lots of brainstorming and idea gathering, we decided to bring Dogeon to life and started the first line of code in March 2021. Dogeon is a Play-to-earn Dog Breeding and Racing NFT game built on Avalanche.",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x1DB749847C4abB991d8B6032102383e6BfD9B1c7/logo.png",
-    "tokenColor": "#daad74"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x1DB749847C4abB991d8B6032102383e6BfD9B1c7/logo.png",
+    "tokenColor": "#edb577"
   },
   {
     "chainId": 43114,
@@ -229,8 +337,33 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "AVME is a decentralized security protocol for malicious content detection and protection against malware. AVME accomplishes this by combining two technologies that can be integrated with blockchain to deliver zero-trust and fully decentralized applications. These include sandbox nodes and virus detection through artificial intelligence/machine learning (AI/ML). ",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png",
     "tokenColor": "#6ac6f3"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x1a877B68bdA77d78EEa607443CcDE667B31B0CdF",
+    "decimals": 18,
+    "name": "PIGGY",
+    "symbol": "PIGGY",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "An algorithmic stablecoin on Avalanche, pegged to the price of 1 AVAX via seigniorage.",
+    "assetType": "Stablecoin",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x1a877B68bdA77d78EEa607443CcDE667B31B0CdF/logo.png",
+    "tokenColor": "#fbcbcf"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x1f1E7c893855525b303f99bDF5c3c05Be09ca251",
+    "decimals": 18,
+    "name": "Synapse",
+    "symbol": "SYN",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Synapse is a cross-chain layer ∞ protocol powering interoperability between blockchains.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251/logo.png",
+    "tokenColor": "#c14aea"
   },
   {
     "chainId": 43114,
@@ -241,8 +374,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12/logo.png",
-    "tokenColor": "#01d263"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12/logo.png",
+    "tokenColor": "#03d363"
   },
   {
     "chainId": 43114,
@@ -253,7 +386,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f/logo.png",
     "tokenColor": "#d1d9ed"
   },
   {
@@ -265,8 +398,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x214DB107654fF987AD859F34125307783fC8e387/logo.png",
-    "tokenColor": "#e3c0c0"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x214DB107654fF987AD859F34125307783fC8e387/logo.png",
+    "tokenColor": "#fbd0d0"
   },
   {
     "chainId": 43114,
@@ -276,9 +409,9 @@
     "symbol": "TUNDRA",
     "contractType": "ERC-20",
     "resourceLinks": [],
-    "description": "Yield Farm token and NFT Gamified Token ",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png",
-    "tokenColor": "#d6efec"
+    "description": "Yield Farm token and NFT Gamified Token.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png",
+    "tokenColor": "#beeae3"
   },
   {
     "chainId": 43114,
@@ -289,8 +422,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "Platypus' AMM facilitates seamless exchange between pegged assets. Its single-sided liquidity provision redefines the way AMM works.",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x22d4002028f537599bE9f666d1c4Fa138522f9c8/logo.png",
-    "tokenColor": "#07b3e9"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x22d4002028f537599bE9f666d1c4Fa138522f9c8/logo.png",
+    "tokenColor": "#f3fafd"
   },
   {
     "chainId": 43114,
@@ -301,8 +434,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06/logo.png",
-    "tokenColor": "#dce71c"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06/logo.png",
+    "tokenColor": "#dbe81f"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F",
+    "decimals": 18,
+    "name": "Dragon Crypto Argenti",
+    "symbol": "DCAR",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "DCAU is a fully minted token with deflationary mechanics. It is used in the upcoming old-school RPG blockchain game: The Legend of Aurum Draconis.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F/logo.png",
+    "tokenColor": "#e0dada"
   },
   {
     "chainId": 43114,
@@ -314,7 +459,7 @@
     "resourceLinks": [],
     "description": "",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png",
     "tokenColor": "#e87e80"
   },
   {
@@ -326,8 +471,32 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x264c1383EA520f73dd837F915ef3a732e204a493/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x264c1383EA520f73dd837F915ef3a732e204a493/logo.png",
     "tokenColor": "#ffc121"
+  },
+  {
+    "address": "0x2905d6D6957983d9ED73BC019fF2782c39dd7a49",
+    "chainId": 43114,
+    "name": "Snake City Token",
+    "symbol": "SNCT",
+    "decimals": 18,
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Snake City is a Play-to-Earn project on Avalanche. It is a game following the concept of the famous Slither which players control their Snake Armies to overcome challenges in the game or fight over other players in the Arena Battle to win rewards.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x2905d6D6957983d9ED73BC019fF2782c39dd7a49/logo.png",
+    "tokenColor": "#f5ecd9"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+    "decimals": 18,
+    "name": "StargateToken",
+    "symbol": "STG",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Stargate is a fully composable liquidity transport protocol.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png",
+    "tokenColor": "#c4b7b7"
   },
   {
     "chainId": 43114,
@@ -338,8 +507,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "BENQI Liquid Staking is the first liquid staking protocol for Avalanche. Users stake AVAX with BENQI, and receive sAVAX, an interest bearing version of AVAX. This allows users to earn both the rewards for securing the Avalanche network and from the world of DeFi.",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png",
-    "tokenColor": "#00b9f4"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png",
+    "tokenColor": "#00b6f0"
   },
   {
     "chainId": 43114,
@@ -350,7 +519,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "\"With its token, SwapXI offers an interactive ecosystem for everyone who is linked to the SwapXI token. Any income from the respective components flows directly into the token and influences the market price.\r\nSwapXI specializes in the gaming industry with the components of a games/software marketplace, a metaverse and a streaming plugin that allows cross-streaming across multiple platforms.\"",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x312eE43Df66d1Fd1EA28e5b28F355Da84dCA13C2/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x312eE43Df66d1Fd1EA28e5b28F355Da84dCA13C2/logo.png",
     "tokenColor": "#2698e8"
   },
   {
@@ -362,8 +531,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x321E7092a180BB43555132ec53AaA65a5bF84251/logo.png",
-    "tokenColor": "#e6edef"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x321E7092a180BB43555132ec53AaA65a5bF84251/logo.png",
+    "tokenColor": "#f1f5f3"
   },
   {
     "chainId": 43114,
@@ -374,7 +543,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A/logo.png",
     "tokenColor": "#17ffff"
   },
   {
@@ -387,7 +556,7 @@
     "resourceLinks": [],
     "description": "AVAI is an asset that is pegged to the US Dollar; in other words, a coin intended to float as close to $1.00 USD as possible. It will be backed by locking tokens as collateral in a personal Vault in a Orca Bank as well as via other mechanisms described in the <a href=\"https://docs.avai.finance/protocol/technical-overview\">technical overview</a>.\r\n\r\nThe entire process is decentralized and does not use a middleman such as a financial institution, meaning simply that the user is in full control of their funds at all times. \r\nAn Orca Bank is the contract that allows a user to deposit a specific ERC20 as collateral, granting AVAI in return. Using the USDC token as an example, if a user deposits $150 USD worth of collateral funds into a Vault, they will have the ability to borrow up to 100 AVAI, worth $100 USD. This grants them the opportunity to invest a total of $250 USD, while owing a stable $100 USD. ",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png",
     "tokenColor": "#22b4a0"
   },
   {
@@ -400,7 +569,7 @@
     "resourceLinks": [],
     "description": "",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x3509f19581aFEDEff07c53592bc0Ca84e4855475/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x3509f19581aFEDEff07c53592bc0Ca84e4855475/logo.png",
     "tokenColor": "#fbfafb"
   },
   {
@@ -412,8 +581,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "Vee Finance is a DeFi lending platform for traditional financed and crypto users alike. They are committed to bridging the gap between traditional finance and DeFi and providing users with better digital asset management services. \r\n\r\nThe mission of the project is to reduce barriers for traditional users to participate in DeFi and optimize the efficiency of global asset allocation.",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x3709E8615E02C15B096f8a9B460ccb8cA8194e86/logo.png",
-    "tokenColor": "#ff812d"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x3709E8615E02C15B096f8a9B460ccb8cA8194e86/logo.png",
+    "tokenColor": "#ff7d27"
   },
   {
     "chainId": 43114,
@@ -424,7 +593,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76/logo.png",
     "tokenColor": "#e6abd8"
   },
   {
@@ -436,7 +605,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x390ba0fb0Bd3Aa2a5484001606329701148074e6/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x390ba0fb0Bd3Aa2a5484001606329701148074e6/logo.png",
     "tokenColor": "#0cf3d6"
   },
   {
@@ -448,8 +617,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "AVXT Token is a crypto-asset that was generated on Avalanche Blockchain Platform using ERC-20 Token standard. The AVXT token is a utility token generated by farming NFTs, used to accelerate NFT farming, trading Boxes, items and newly generated Gen2 NFTs.",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo.png",
-    "tokenColor": "#f8e7e9"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo.png",
+    "tokenColor": "#fbfaf8"
   },
   {
     "chainId": 43114,
@@ -460,7 +629,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc/logo.png",
     "tokenColor": "#e6abd8"
   },
   {
@@ -472,7 +641,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339/logo.png",
     "tokenColor": "#ff4949"
   },
   {
@@ -484,8 +653,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "Islander (ISA) is an online learn-to-earn and decentralized platform powered by NFTs to manage and market crypto projects in a unique way. \r\n\r\nCentral to this proposition is the native token Islander (“ISA”), which serves multiple purposes: \r\n- To help projects discover, grow and maintain an audience of bonafide supporters\r\n- Allow key opinion leaders (KOLs) the opportunity to leverage their combined marketing power and earn\r\n- Create earning opportunities for content creators \r\n\r\nAdditionally: \r\n- Islander provides an intuitive toolkit for users to manage their various projects\r\n- Full support for developers\r\n- Wallets, plugins, management apps\r\n- Payment gateway platform",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png",
-    "tokenColor": "#ee9599"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png",
+    "tokenColor": "#abe0ff"
   },
   {
     "chainId": 43114,
@@ -496,8 +665,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d/logo.png",
-    "tokenColor": "#fd8b0d"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d/logo.png",
+    "tokenColor": "#fd890d"
   },
   {
     "chainId": 43114,
@@ -508,8 +677,32 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png",
-    "tokenColor": "#f0eef3"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png",
+    "tokenColor": "#edebf2"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x4156F18bF7C1ef04248632C66Aa119De152D8f2E",
+    "decimals": 18,
+    "name": "Zeus Node Finance",
+    "symbol": "ZEUS",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Zeus Finance framework allows everybody to simply access and achieve outsized profits and APY with little to no work or understanding of the DeFi industry.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x4156F18bF7C1ef04248632C66Aa119De152D8f2E/logo.png",
+    "tokenColor": "#c1beda"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+    "decimals": 18,
+    "name": "JPY Coin",
+    "symbol": "JPYC",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB/logo.png",
+    "tokenColor": "#f5f7fb"
   },
   {
     "chainId": 43114,
@@ -520,8 +713,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png",
-    "tokenColor": "#f7dccc"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png",
+    "tokenColor": "#f5f0f5"
   },
   {
     "chainId": 43114,
@@ -532,8 +725,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x44754455564474A89358B2C2265883DF993b12F0/logo.png",
-    "tokenColor": "#c4d0f5"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x44754455564474A89358B2C2265883DF993b12F0/logo.png",
+    "tokenColor": "#f5f8fe"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x449674B82F05d498E126Dd6615a1057A9c088f2C",
+    "decimals": 18,
+    "name": "LostToken",
+    "symbol": "LOST",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Lost Worlds a 1st of its kind NFT platform experience where NFTs are geographically bound to real world locations for collectors to discover and mint.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x449674B82F05d498E126Dd6615a1057A9c088f2C/logo.png",
+    "tokenColor": "#ca71b0"
   },
   {
     "chainId": 43114,
@@ -544,7 +749,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "Cross-chain Liquidity DEX on Avalanche. ",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x45C13620B55C35A5f539d26E88247011Eb10fDbd/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x45C13620B55C35A5f539d26E88247011Eb10fDbd/logo.png",
     "tokenColor": "#ede8f4"
   },
   {
@@ -556,7 +761,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x46C54b16aF7747067f412c78eBaDaE203a26aDa0/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x46C54b16aF7747067f412c78eBaDaE203a26aDa0/logo.png",
     "tokenColor": "#fbfcfd"
   },
   {
@@ -568,8 +773,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "Defrost Finance is the platform behind the next generation stablecoin and provides remunerative investment opportunities. A fully fair launch, decentralized project, its aim is to change the world of finance for good.",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png",
-    "tokenColor": "#549eee"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png"
   },
   {
     "chainId": 43114,
@@ -580,7 +784,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb/logo.png",
     "tokenColor": "#b0843d"
   },
   {
@@ -592,8 +796,43 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "\"YetiSwap is a decentralized exchange (DEX) and NFT marketplace , running on the Avalanche blockchain. Yeti Swap uses the same automated market-making (AMM) model as Uniswap and features a native governance token called YTS that is fully community driven, with users capable of trading all native Avalanche tokens. In a crowded marketplace with multiple contenders, YetiSwap offers three critically important benefits: fast and cost-efficient trades, with a fair and open token distribution system.\r\nYetiSwap is the only NFT marketplace offering royalties on Avalanche, profiting both NFT artists and collection owners.\"",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x488F73cddDA1DE3664775fFd91623637383D6404/logo.png",
-    "tokenColor": "#a1cbe5"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x488F73cddDA1DE3664775fFd91623637383D6404/logo.png",
+    "tokenColor": "#a0cbe4"
+  },
+  {
+    "address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
+    "name": "Colony Avalanche Index",
+    "symbol": "CAI",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "resourceLinks": [],
+    "chainId": 43114,
+    "description": "CAI is the benchmark index for the Avalanche ecosystem. Built in partnership with Colony and backed by Ava Labs, CAI is composed of AVAX and the top applications on Avalanche.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0/logo.png",
+    "tokenColor": "#f6f0fd"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x490bf3ABcAb1fB5c88533d850F2a8d6D38298465",
+    "decimals": 18,
+    "name": "Playmates",
+    "symbol": "PLAYMATES",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x490bf3ABcAb1fB5c88533d850F2a8d6D38298465/logo.png",
+    "tokenColor": "#ea81a8"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x491a4eB4f1FC3BfF8E1d2FC856a6A46663aD556f",
+    "decimals": 4,
+    "name": "BRZ",
+    "symbol": "BRZ",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cc8b3a0/chains/43114/contracts/0x491a4eB4f1FC3BfF8E1d2FC856a6A46663aD556f/logo.png"
   },
   {
     "chainId": 43114,
@@ -604,7 +843,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x4960bc6032351ab87627B8F36b37B4938A44C7eF/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x4960bc6032351ab87627B8F36b37B4938A44C7eF/logo.png",
     "tokenColor": "#bf6555"
   },
   {
@@ -616,8 +855,20 @@
     "resourceLinks": [],
     "chainId": 43114,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png",
     "tokenColor": "#f4f2f2"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x4Bfc90322dD638F81F034517359BD447f8E0235a",
+    "decimals": 18,
+    "name": "New Order",
+    "symbol": "NEWO",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x4Bfc90322dD638F81F034517359BD447f8E0235a/logo.png",
+    "tokenColor": "#fff05e"
   },
   {
     "chainId": 43114,
@@ -628,8 +879,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "DeX and Yield Farming on Avalanche",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png",
-    "tokenColor": "#f1c1bb"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png",
+    "tokenColor": "#edbdba"
   },
   {
     "chainId": 43114,
@@ -640,8 +891,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png",
-    "tokenColor": "#dadb69"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/21f1218/chains/43114/contracts/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png"
   },
   {
     "address": "0x4fbf0429599460D327BD5F55625E30E4fC066095",
@@ -653,8 +903,20 @@
     "resourceLinks": [],
     "description": "",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo.png",
-    "tokenColor": "#ccd5c3"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo.png",
+    "tokenColor": "#dadbc8"
+  },
+  {
+    "address": "0x5085434227aB73151fAd2DE546210Cbc8663dF96",
+    "chainId": 43114,
+    "name": "Metaderby token",
+    "symbol": "DBY",
+    "decimals": 18,
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "MetaDerby is a horse racing and breeding inspired metaverse where anyone can earn tokens through skilled gameplay and contribution to building the MetaDerby-verse.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x5085434227aB73151fAd2DE546210Cbc8663dF96/logo.png",
+    "tokenColor": "#fbda65"
   },
   {
     "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
@@ -665,8 +927,32 @@
     "resourceLinks": [],
     "chainId": 43114,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png",
-    "tokenColor": "#f0eef3"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png",
+    "tokenColor": "#edebf2"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x50c72103940D419FB64448F258f7EAbbA784F84B",
+    "decimals": 18,
+    "name": "Deliq",
+    "symbol": "DLQ",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "A liquidity outsourcing platform on Avalanche ecosystem to aggregate liquidity and deploying to exchanges like Trader Joe.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x50c72103940D419FB64448F258f7EAbbA784F84B/logo.png",
+    "tokenColor": "#f4f2f2"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x51e48670098173025C477D9AA3f0efF7BF9f7812",
+    "decimals": 18,
+    "name": "DegenX",
+    "symbol": "DGNX",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "The DegenX ecosystem will empowers its holders and users to gain a passive income stream by providing services and tooling for everyone who want to settle in the DeFi space.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x51e48670098173025C477D9AA3f0efF7BF9f7812/logo.png",
+    "tokenColor": "#ff6c22"
   },
   {
     "chainId": 43114,
@@ -677,8 +963,21 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png",
     "tokenColor": "#e4f4ec"
+  },
+  {
+    "address": "0x5541D83EFaD1f281571B343977648B75d95cdAC2",
+    "name": "Grape Finance",
+    "symbol": "GRAPE",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "resourceLinks": [],
+    "chainId": 43114,
+    "assetType": "Stablecoin",
+    "description": "GRAPE is an algorithmic stable coin designed to maintain a 1:1 peg to MIM.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x5541D83EFaD1f281571B343977648B75d95cdAC2/logo.png",
+    "tokenColor": "#d945cd"
   },
   {
     "chainId": 43114,
@@ -690,8 +989,32 @@
     "resourceLinks": [],
     "description": "",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x564A341Df6C126f90cf3ECB92120FD7190ACb401/logo.png",
-    "tokenColor": "#f0f2f5"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x564A341Df6C126f90cf3ECB92120FD7190ACb401/logo.png",
+    "tokenColor": "#eaeff3"
+  },
+  {
+    "address": "0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33",
+    "name": "JoeBar",
+    "symbol": "xJOE",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "resourceLinks": [],
+    "chainId": 43114,
+    "description": "One-stop Decentralized Trading on Avalanche.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33/logo.png",
+    "tokenColor": "#dda0b1"
+  },
+  {
+    "address": "0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4",
+    "name": "Vector",
+    "symbol": "VTX",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "resourceLinks": [],
+    "chainId": 43114,
+    "description": "Vector Finance is a ve-token yield optimizer building on top of Platypus Finance and Trader Joe. Vector enables users to generate boosted yields on these platforms without having to stake their native token.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4/logo.png",
+    "tokenColor": "#fdfdfe"
   },
   {
     "address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
@@ -702,8 +1025,8 @@
     "resourceLinks": [],
     "chainId": 43114,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png",
-    "tokenColor": "#02d168"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png",
+    "tokenColor": "#00d366"
   },
   {
     "address": "0x5947BB275c521040051D82396192181b413227A3",
@@ -714,7 +1037,7 @@
     "resourceLinks": [],
     "chainId": 43114,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x5947BB275c521040051D82396192181b413227A3/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x5947BB275c521040051D82396192181b413227A3/logo.png",
     "tokenColor": "#fbfbfb"
   },
   {
@@ -726,8 +1049,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png",
-    "tokenColor": "#e8bbd1"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png",
+    "tokenColor": "#e6bdcc"
   },
   {
     "chainId": 43114,
@@ -738,8 +1061,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x596fA47043f99A4e0F122243B841E55375cdE0d2/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x596fA47043f99A4e0F122243B841E55375cdE0d2/logo.png",
     "tokenColor": "#faf9f9"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x5a15Bdcf9a3A8e799fa4381E666466a516F2d9C8",
+    "decimals": 18,
+    "name": "Snail Trail",
+    "symbol": "SLIME",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x5a15Bdcf9a3A8e799fa4381E666466a516F2d9C8/logo.png",
+    "tokenColor": "#f4f2f2"
   },
   {
     "chainId": 43114,
@@ -751,8 +1086,20 @@
     "resourceLinks": [],
     "description": "",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png",
-    "tokenColor": "#f5caca"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png",
+    "tokenColor": "#fbebeb"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x5fC17416925789E0852FBFcd81c490ca4abc51F9",
+    "decimals": 18,
+    "name": "inSure",
+    "symbol": "SURE",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "inSure DeFi is a Decentralized Insurance Ecosystem, trusted by thousands of community members to protect their crypto portfolios from scams, exchange closures, and drastic devaluations.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x5fC17416925789E0852FBFcd81c490ca4abc51F9/logo.png",
+    "tokenColor": "#f6f0fc"
   },
   {
     "address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -763,8 +1110,67 @@
     "resourceLinks": [],
     "chainId": 43114,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
-    "tokenColor": "#fec900"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
+    "tokenColor": "#fcc700"
+  },
+  {
+    "address": "0x6121191018BAf067c6Dc6B18D42329447a164F05",
+    "chainId": 43114,
+    "name": "Pizza",
+    "symbol": "PIZZA",
+    "decimals": 18,
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Pizza Game is an Avalanche on-chain game inspired by our favorite childhood online game, Cookie Clicker. To play Pizza Game, you must purchase a Pizza Chef and stake them in the Pizzeria. Chefs are ERC721 NFTs and produce $PIZZA every minute when staked.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x6121191018BAf067c6Dc6B18D42329447a164F05/logo.png",
+    "tokenColor": "#f9ca4d"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x61eCd63e42C27415696e10864d70ecEA4aA11289",
+    "decimals": 18,
+    "name": "RUGPULL",
+    "symbol": "RUGPULL",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x61eCd63e42C27415696e10864d70ecEA4aA11289/logo.png",
+    "tokenColor": "#f2deae"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+    "decimals": 18,
+    "name": "GMX",
+    "symbol": "GMX",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.png",
+    "tokenColor": "#08b5e6"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x63468133ed352E602bEB61DD254D6060Ad2fe419",
+    "decimals": 18,
+    "name": "StakedThorus",
+    "symbol": "sTHO",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "sTHO is the staked receipt token for Thorus’ native utility and governance token THO.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/68b1267/chains/43114/contracts/0x63468133ed352E602bEB61DD254D6060Ad2fe419/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x63682bDC5f875e9bF69E201550658492C9763F89",
+    "decimals": 18,
+    "name": "Betswap.gg",
+    "symbol": "BSGG",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "The BSGG token provides multiple utilities including DAO governance, staking, social betting, and discounted platform fees.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x63682bDC5f875e9bF69E201550658492C9763F89/logo.png",
+    "tokenColor": "#fcf8ee"
   },
   {
     "chainId": 43114,
@@ -775,7 +1181,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png",
     "tokenColor": "#d1d5e5"
   },
   {
@@ -787,7 +1193,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x63a72806098Bd3D9520cC43356dD78afe5D386D9/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x63a72806098Bd3D9520cC43356dD78afe5D386D9/logo.png",
     "tokenColor": "#6781bd"
   },
   {
@@ -799,7 +1205,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/logo.png",
     "tokenColor": "#e6d1d1"
   },
   {
@@ -811,8 +1217,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9/logo.png",
     "tokenColor": "#04d6ff"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x6C1c0319d8dDcb0ffE1a68C5b3829Fd361587DB4",
+    "decimals": 18,
+    "name": "POLAR",
+    "symbol": "POLAR",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "The Polar Nodes network introduces the concept of virtual nodes that take less than 10 seconds to set up, directly connected to the smart contract.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x6C1c0319d8dDcb0ffE1a68C5b3829Fd361587DB4/logo.png",
+    "tokenColor": "#29caf7"
   },
   {
     "chainId": 43114,
@@ -823,7 +1241,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo.png",
     "tokenColor": "#dfedfe"
   },
   {
@@ -847,7 +1265,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985/logo.png",
     "tokenColor": "#e2e67e"
   },
   {
@@ -859,8 +1277,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
-    "tokenColor": "#d25f56"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
+    "tokenColor": "#e9e9e2"
   },
   {
     "chainId": 43114,
@@ -872,8 +1290,8 @@
     "resourceLinks": [],
     "description": "",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x6feFd97F328342a8A840546A55FDcfEe7542F9A8/logo.png",
-    "tokenColor": "#d5c7a3"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x6feFd97F328342a8A840546A55FDcfEe7542F9A8/logo.png",
+    "tokenColor": "#c6dfbf"
   },
   {
     "chainId": 43114,
@@ -884,8 +1302,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png",
     "tokenColor": "#f2485a"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x714f020C54cc9D104B6F4f6998C63ce2a31D1888",
+    "decimals": 18,
+    "name": "STEP.APP",
+    "symbol": "FITFI",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x714f020C54cc9D104B6F4f6998C63ce2a31D1888/logo.png",
+    "tokenColor": "#ffd546"
   },
   {
     "chainId": 43114,
@@ -896,8 +1326,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09/logo.png",
     "tokenColor": "#ebdee9"
+  },
+  {
+    "address": "0x769bfeb9fAacD6Eb2746979a8dD0b7e9920aC2A4",
+    "chainId": 43114,
+    "name": "zJoe",
+    "symbol": "zJoe",
+    "decimals": 18,
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Vector Finance is a ve-token yield optimizer building on top of Platypus Finance and Trader Joe. Vector enables users to generate boosted yields on these platforms without having to stake their native token.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x769bfeb9fAacD6Eb2746979a8dD0b7e9920aC2A4/logo.png",
+    "tokenColor": "#dcc7ba"
   },
   {
     "chainId": 43114,
@@ -908,8 +1350,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611/logo.png",
-    "tokenColor": "#f1514e"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611/logo.png",
+    "tokenColor": "#f14b49"
+  },
+  {
+    "address": "0x77777777777d4554c39223C354A05825b2E8Faa3",
+    "chainId": 43114,
+    "name": "Yeti Finance",
+    "symbol": "YETI",
+    "decimals": 18,
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Yeti Finance is a cutting edge decentralized borrowing protocol built on Avalanche that allows users to borrow up to 11x against LP tokens, staked assets like Liquid AVAX, and base assets like WETH - and over 20x on yield-bearing stablecoins, all at a 0% interest rate.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x77777777777d4554c39223C354A05825b2E8Faa3/logo.png",
+    "tokenColor": "#f0f7fc"
   },
   {
     "address": "0x783C08b5F26E3daf8C4681F3bf49844e425b6393",
@@ -921,8 +1375,20 @@
     "resourceLinks": [],
     "description": "",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo.png",
     "tokenColor": "#37df37"
+  },
+  {
+    "address": "0x78Ea3fef1c1f07348199Bf44f45b803b9B0Dbe28",
+    "name": "FLY",
+    "symbol": "FLY",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "resourceLinks": [],
+    "chainId": 43114,
+    "description": "Hoppers Game is an idle game where players stake their Hopper NFTs in different adventures to earn $FLY.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x78Ea3fef1c1f07348199Bf44f45b803b9B0Dbe28/logo.png",
+    "tokenColor": "#deeff6"
   },
   {
     "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
@@ -933,8 +1399,8 @@
     "resourceLinks": [],
     "chainId": 43114,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png",
-    "tokenColor": "#d7c64e"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png",
+    "tokenColor": "#d6c54d"
   },
   {
     "chainId": 43114,
@@ -945,8 +1411,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x7C08413cbf02202a1c13643dB173f2694e0F73f0/logo.png",
-    "tokenColor": "#ddd5d5"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/21f1218/chains/43114/contracts/0x7C08413cbf02202a1c13643dB173f2694e0F73f0/logo.png"
   },
   {
     "chainId": 43114,
@@ -957,8 +1422,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x7F29e7086453ed97283893E763aE0989F4B70f8d/logo.png",
-    "tokenColor": "#e6f5e6"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x7F29e7086453ed97283893E763aE0989F4B70f8d/logo.png",
+    "tokenColor": "#fafcfa"
   },
   {
     "chainId": 43114,
@@ -969,8 +1434,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png",
-    "tokenColor": "#fdb1c0"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png",
+    "tokenColor": "#fff9fa"
   },
   {
     "chainId": 43114,
@@ -981,8 +1446,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x7f041ce89A2079873693207653b24C15B5e6A293/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x7f041ce89A2079873693207653b24C15B5e6A293/logo.png",
     "tokenColor": "#b6695a"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x80D18b1c9Ab0c9B5D6A6d5173575417457d00a12",
+    "decimals": 6,
+    "name": "Axelar Wrapped ATOM",
+    "symbol": "axlATOM",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/0cbd8c7/chains/43114/contracts/0x80D18b1c9Ab0c9B5D6A6d5173575417457d00a12/logo.png",
+    "tokenColor": "#faf9f9"
   },
   {
     "address": "0x81440C939f2C1E34fc7048E518a637205A632a74",
@@ -993,20 +1470,32 @@
     "resourceLinks": [],
     "chainId": 43114,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x81440C939f2C1E34fc7048E518a637205A632a74/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x81440C939f2C1E34fc7048E518a637205A632a74/logo.png",
     "tokenColor": "#f6f8fb"
   },
   {
     "chainId": 43114,
-    "address": "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a",
+    "address": "0x82FE038Ea4b50f9C957da326C412ebd73462077C",
     "decimals": 18,
-    "name": "VersoToken",
-    "symbol": "VSO",
+    "name": "Joe Hat Token",
+    "symbol": "HAT",
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a/logo.png",
-    "tokenColor": "#fbfbfb"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x82FE038Ea4b50f9C957da326C412ebd73462077C/logo.png",
+    "tokenColor": "#e88c83"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x83a283641C6B4DF383BCDDf807193284C84c5342",
+    "decimals": 18,
+    "name": "VaporNodes",
+    "symbol": "VPND",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x83a283641C6B4DF383BCDDf807193284C84c5342/logo.png",
+    "tokenColor": "#49d0f2"
   },
   {
     "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
@@ -1017,8 +1506,8 @@
     "resourceLinks": [],
     "chainId": 43114,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png",
-    "tokenColor": "#dbd3d3"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png",
+    "tokenColor": "#fbfbfb"
   },
   {
     "chainId": 43114,
@@ -1029,8 +1518,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x88128fd4b259552A9A1D457f435a6527AAb72d42/logo.png",
-    "tokenColor": "#50c7b3"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x88128fd4b259552A9A1D457f435a6527AAb72d42/logo.png",
+    "tokenColor": "#52c6b3"
   },
   {
     "chainId": 43114,
@@ -1041,7 +1530,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x885d748C00A279B67A7749EC6b03301700dd0455/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x885d748C00A279B67A7749EC6b03301700dd0455/logo.png",
     "tokenColor": "#fcb006"
   },
   {
@@ -1053,7 +1542,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo.png",
     "tokenColor": "#22b79a"
   },
   {
@@ -1065,8 +1554,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf/logo.png",
     "tokenColor": "#efca20"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79",
+    "decimals": 18,
+    "name": "THOR v2",
+    "symbol": "THOR",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Thor has been designed to open the doors of DeFi to anyone, through a multi-chain Yield Processing Node.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79/logo.png",
+    "tokenColor": "#eec95e"
   },
   {
     "chainId": 43114,
@@ -1077,7 +1578,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9/logo.png",
     "tokenColor": "#fbfcfd"
   },
   {
@@ -1089,7 +1590,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png",
     "tokenColor": "#a5b6e5"
   },
   {
@@ -1101,8 +1602,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9/logo.png",
-    "tokenColor": "#6782bd"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9/logo.png",
+    "tokenColor": "#6781bd"
   },
   {
     "chainId": 43114,
@@ -1113,7 +1614,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580/logo.png",
     "tokenColor": "#fde9f3"
   },
   {
@@ -1125,7 +1626,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png",
     "tokenColor": "#e2dcc9"
   },
   {
@@ -1137,8 +1638,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A/logo.png",
     "tokenColor": "#58a1a0"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21",
+    "decimals": 18,
+    "name": "Oh! Finance",
+    "symbol": "OH",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Oh! Finance is an optimized yield-generation protocol, focused on reducing risk and increasing volume exposure.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21/logo.png",
+    "tokenColor": "#fef8fc"
   },
   {
     "chainId": 43114,
@@ -1149,8 +1662,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png",
-    "tokenColor": "#f7d081"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png",
+    "tokenColor": "#f9d386"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9466Ab927611725B9AF76b9F31B2F879Ff14233d",
+    "decimals": 18,
+    "name": "Ripae",
+    "symbol": "PAE",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "The better algorithmic stablecoin on Avalanche, pegged to the price of 1 AVAX via seigniorage.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x9466Ab927611725B9AF76b9F31B2F879Ff14233d/logo.png",
+    "tokenColor": "#d5cbcb"
   },
   {
     "chainId": 43114,
@@ -1161,7 +1686,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x94d649E017625dE1Aa04733aA046dE0161DF18eF/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x94d649E017625dE1Aa04733aA046dE0161DF18eF/logo.png",
     "tokenColor": "#cddcec"
   },
   {
@@ -1173,8 +1698,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo.png",
-    "tokenColor": "#fefcfd"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo.png",
+    "tokenColor": "#fff3f3"
   },
   {
     "chainId": 43114,
@@ -1186,8 +1711,31 @@
     "resourceLinks": [],
     "description": "",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png",
-    "tokenColor": "#c1ebdd"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png",
+    "tokenColor": "#fcfdfd"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x979fFD8eEd7a43629eA29581DF4Bfe2b3F224e47",
+    "decimals": 18,
+    "name": "Omlira",
+    "symbol": "OML",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Omlira aims to provide smart contracts as a service and allow businesses to utilize blockchain technology using open-source libraries provided by Omlira.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x979fFD8eEd7a43629eA29581DF4Bfe2b3F224e47/logo.png",
+    "tokenColor": "#f4f8fc"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x97E7044ab98B7891546485f5f66EDcc2F58be106",
+    "decimals": 18,
+    "name": "EMERALD",
+    "symbol": "EM",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb0789a/chains/43114/contracts/0x97E7044ab98B7891546485f5f66EDcc2F58be106/logo.png"
   },
   {
     "chainId": 43114,
@@ -1210,8 +1758,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x99519AcB025a0e0d44c3875A4BbF03af65933627/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x99519AcB025a0e0d44c3875A4BbF03af65933627/logo.png",
     "tokenColor": "#f1f8ff"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9C846D808A41328A209e235B5e3c4E626DAb169E",
+    "decimals": 18,
+    "name": "chikn fert",
+    "symbol": "FERT",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x9C846D808A41328A209e235B5e3c4E626DAb169E/logo.png",
+    "tokenColor": "#d4ebef"
   },
   {
     "chainId": 43114,
@@ -1222,8 +1782,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269/logo.png",
     "tokenColor": "#c6754b"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+    "decimals": 18,
+    "name": "BUSD Token",
+    "symbol": "BUSD",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "BUSD is a 1:1 USD-backed stablecoin approved by the New York State Department of Financial Services (NYDFS) and issued in partnership with Paxos.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39/logo.png",
+    "tokenColor": "#ffc202"
   },
   {
     "chainId": 43114,
@@ -1234,7 +1806,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd/logo.png",
     "tokenColor": "#3b91dd"
   },
   {
@@ -1246,7 +1818,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF/logo.png",
     "tokenColor": "#e7f2fc"
   },
   {
@@ -1258,7 +1830,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0/logo.png",
     "tokenColor": "#f4f7f7"
   },
   {
@@ -1270,8 +1842,32 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc/logo.png",
     "tokenColor": "#f1f8ff"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645",
+    "decimals": 18,
+    "name": "DegisToken",
+    "symbol": "DEG",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645/logo.png",
+    "tokenColor": "#f1eeee"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xA1AfCC973d44cE1C65a21D9e644CB82489d26503",
+    "decimals": 18,
+    "name": "RunBlox Token",
+    "symbol": "RUX",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "RunBlox is not a separate individual product; it is part of the OpenBlox.io 's ecosystem-BloxVerse, and has interoperability with all the games built in BloxVerse.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xA1AfCC973d44cE1C65a21D9e644CB82489d26503/logo.png",
+    "tokenColor": "#faf8f8"
   },
   {
     "chainId": 43114,
@@ -1282,8 +1878,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed/logo.png",
-    "tokenColor": "#01c8f7"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed/logo.png",
+    "tokenColor": "#00b9ef"
   },
   {
     "chainId": 43114,
@@ -1294,8 +1890,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b/logo.png",
     "tokenColor": "#e9af1d"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xA5e2cFe48fe8C4ABD682CA2B10fCAaFE34b8774c",
+    "decimals": 18,
+    "name": "PSHARE",
+    "symbol": "PSHARE",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xA5e2cFe48fe8C4ABD682CA2B10fCAaFE34b8774c/logo.png",
+    "tokenColor": "#e8e3e3"
   },
   {
     "chainId": 43114,
@@ -1306,8 +1914,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png",
-    "tokenColor": "#fdfefe"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png",
+    "tokenColor": "#fafcfe"
   },
   {
     "chainId": 43114,
@@ -1319,8 +1927,20 @@
     "resourceLinks": [],
     "description": "",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D/logo.png",
     "tokenColor": "#fafbfb"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xAfE3d2A31231230875DEe1fa1eEF14a412443d22",
+    "decimals": 18,
+    "name": "DeFiato [via ChainPort.io]",
+    "symbol": "DFIAT",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "DeFiato is the next-generation centralized platform for DeFi staking, yield farming and financial services.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xAfE3d2A31231230875DEe1fa1eEF14a412443d22/logo.png",
+    "tokenColor": "#4989ff"
   },
   {
     "chainId": 43114,
@@ -1331,8 +1951,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0/logo.png",
-    "tokenColor": "#eaf3f8"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0/logo.png",
+    "tokenColor": "#eaf2f7"
   },
   {
     "chainId": 43114,
@@ -1343,7 +1963,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo.png",
     "tokenColor": "#c8e1fe"
   },
   {
@@ -1355,8 +1975,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png",
-    "tokenColor": "#85d0f1"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png",
+    "tokenColor": "#a2c1bf"
   },
   {
     "chainId": 43114,
@@ -1367,7 +1987,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C/logo.png",
     "tokenColor": "#d5ac50"
   },
   {
@@ -1429,7 +2049,7 @@
     ],
     "chainId": 43114,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
     "tokenColor": "#fbfbfb"
   },
   {
@@ -1441,8 +2061,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png",
     "tokenColor": "#fbfbfb"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+    "decimals": 18,
+    "name": "Anyswap",
+    "symbol": "ANY",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Anyswap is a mpc decentralized cross-chain swap protocol.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
+    "tokenColor": "#fcfbfe"
   },
   {
     "chainId": 43114,
@@ -1454,7 +2086,7 @@
     "resourceLinks": [],
     "description": "",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png",
     "tokenColor": "#d8e8fb"
   },
   {
@@ -1466,7 +2098,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xBD100d061E120b2c67A24453CF6368E63f1Be056/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xBD100d061E120b2c67A24453CF6368E63f1Be056/logo.png",
     "tokenColor": "#fbeeed"
   },
   {
@@ -1478,8 +2110,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xBeC243C995409E6520D7C41E404da5dEba4b209B/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xBeC243C995409E6520D7C41E404da5dEba4b209B/logo.png",
     "tokenColor": "#04d6ff"
+  },
+  {
+    "address": "0xC17c30e98541188614dF99239cABD40280810cA3",
+    "name": "EverRise",
+    "symbol": "RISE",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "resourceLinks": [],
+    "chainId": 43114,
+    "description": "EverRise is a blockchain technology company that offers bridging and security solutions across blockchains through an ecosystem of decentralized applications. The EverRise token (RISE) is a multi-chain, collateralized cryptocurrency that powers the EverRise dApp ecosystem.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xC17c30e98541188614dF99239cABD40280810cA3/logo.png",
+    "tokenColor": "#f3457e"
   },
   {
     "chainId": 43114,
@@ -1490,7 +2134,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2/logo.png",
     "tokenColor": "#efe2e9"
   },
   {
@@ -1502,7 +2146,7 @@
     "resourceLinks": [],
     "chainId": 43114,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xC38f41A296A4493Ff429F1238e030924A1542e50/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xC38f41A296A4493Ff429F1238e030924A1542e50/logo.png",
     "tokenColor": "#31adff"
   },
   {
@@ -1514,8 +2158,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c/logo.png",
-    "tokenColor": "#e08825"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c/logo.png",
+    "tokenColor": "#e58b27"
   },
   {
     "chainId": 43114,
@@ -1526,7 +2170,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xC84d7bfF2555955b44BDF6A307180810412D751B/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xC84d7bfF2555955b44BDF6A307180810412D751B/logo.png",
     "tokenColor": "#ff4949"
   },
   {
@@ -1538,7 +2182,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50/logo.png",
     "tokenColor": "#a68a8a"
   },
   {
@@ -1550,8 +2194,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png",
-    "tokenColor": "#6f6bfc"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e9ef54a/chains/43114/contracts/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png",
+    "tokenColor": "#e2ccaf"
   },
   {
     "chainId": 43114,
@@ -1562,8 +2206,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136/logo.png",
-    "tokenColor": "#a28343"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136/logo.png",
+    "tokenColor": "#62a747"
   },
   {
     "chainId": 43114,
@@ -1575,8 +2219,8 @@
     "resourceLinks": [],
     "description": "",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png",
-    "tokenColor": "#fbe4e4"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png",
+    "tokenColor": "#fefcfc"
   },
   {
     "chainId": 43114,
@@ -1587,7 +2231,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1/logo.png",
     "tokenColor": "#f5b119"
   },
   {
@@ -1599,8 +2243,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142/logo.png",
-    "tokenColor": "#ff7616"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142/logo.png",
+    "tokenColor": "#ff7412"
   },
   {
     "chainId": 43114,
@@ -1611,7 +2255,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
     "tokenColor": "#f3f3fa"
   },
   {
@@ -1624,7 +2268,7 @@
     "resourceLinks": [],
     "description": "",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98/logo.png",
     "tokenColor": "#fcfcfc"
   },
   {
@@ -1636,8 +2280,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xE06fba763C2104dB5027F57f6A5Be0a0D86308af/logo.png",
-    "tokenColor": "#f7d3cd"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xE06fba763C2104dB5027F57f6A5Be0a0D86308af/logo.png",
+    "tokenColor": "#f4c7c3"
   },
   {
     "chainId": 43114,
@@ -1648,8 +2292,31 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xE1463E8991c8A62e64b77b5Fb6B22F190344C2A9/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xE1463E8991c8A62e64b77b5Fb6B22F190344C2A9/logo.png",
     "tokenColor": "#fefdfd"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xE16253892F126D068E711C2fdde6DB56969dBCf6",
+    "decimals": 18,
+    "name": "Splash",
+    "symbol": "Splash Token",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xE16253892F126D068E711C2fdde6DB56969dBCf6/logo.png",
+    "tokenColor": "#7fb669"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+    "decimals": 18,
+    "name": "Elk",
+    "symbol": "ELK",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Elk Finance is a decentralized network for cross-chain liquidity. The Elk ecosystem introduces a seamless process for anyone exchanging cryptocurrencies. Our motto is Any chain, anytime, anywhere.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/1feb4a5/chains/43114/contracts/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png"
   },
   {
     "chainId": 43114,
@@ -1660,7 +2327,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xE54EB2C3009Fa411BF24fB017F9725b973CE36F0/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xE54EB2C3009Fa411BF24fB017F9725b973CE36F0/logo.png",
     "tokenColor": "#d3abbb"
   },
   {
@@ -1672,7 +2339,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xE6B9d092223f39013656702A40dbE6B7DeCc5746/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xE6B9d092223f39013656702A40dbE6B7DeCc5746/logo.png",
     "tokenColor": "#dba18e"
   },
   {
@@ -1684,8 +2351,19 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB/logo.png",
-    "tokenColor": "#ab73db"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB/logo.png",
+    "tokenColor": "#ac72da"
+  },
+  {
+    "address": "0xF6557bC62AC67744961479eA6c131B61444714d6",
+    "name": "Vacus Finance",
+    "symbol": "VCS",
+    "contractType": "ERC-721",
+    "resourceLinks": [],
+    "chainId": 43114,
+    "description": "Vacus finance is a Yield Aggregator (Vault) that provides optimized yield for users. The protocol is developed by Vacus team and will be governed by VCS holders.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xF6557bC62AC67744961479eA6c131B61444714d6/logo.png",
+    "tokenColor": "#f05b27"
   },
   {
     "address": "0xF675a87397a6239eAF95Ad948670a5b19D076c59",
@@ -1705,8 +2383,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6/logo.png",
-    "tokenColor": "#c0b0b0"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6/logo.png",
+    "tokenColor": "#f9f6f6"
   },
   {
     "chainId": 43114,
@@ -1717,8 +2395,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png",
-    "tokenColor": "#fb5760"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png",
+    "tokenColor": "#f8565f"
   },
   {
     "chainId": 43114,
@@ -1729,7 +2407,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xaBC9547B534519fF73921b1FBA6E672b5f58D083/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xaBC9547B534519fF73921b1FBA6E672b5f58D083/logo.png",
     "tokenColor": "#fbfbfb"
   },
   {
@@ -1741,7 +2419,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xaEb044650278731Ef3DC244692AB9F64C78FfaEA/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xaEb044650278731Ef3DC244692AB9F64C78FfaEA/logo.png",
     "tokenColor": "#ffc200"
   },
   {
@@ -1753,7 +2431,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png",
     "tokenColor": "#eab66d"
   },
   {
@@ -1765,8 +2443,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347/logo.png",
     "tokenColor": "#08cbe8"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674",
+    "decimals": 6,
+    "name": "STEAK",
+    "symbol": "STEAK",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "SteakHut is a yield optimization protocol powered by the Avalanche Network. SteakHut's governance token (STEAK) represents ownership in the SteakHut protocol, with participants receiving a share of Steak Hut revenue, in the form of STEAK buy-backs, burnings, and dividends.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674/logo.png",
+    "tokenColor": "#e36aad"
   },
   {
     "chainId": 43114,
@@ -1777,8 +2467,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35/logo.png",
-    "tokenColor": "#fbfcfc"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35/logo.png",
+    "tokenColor": "#5dccef"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xb2C5172E5C15aF6aDD1ec92e518A5Ea1c7DeD2ad",
+    "decimals": 18,
+    "name": "Echidna PTP",
+    "symbol": "ecdPTP",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xb2C5172E5C15aF6aDD1ec92e518A5Ea1c7DeD2ad/logo.png",
+    "tokenColor": "#fef9fa"
   },
   {
     "chainId": 43114,
@@ -1789,7 +2491,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo.png",
     "tokenColor": "#ff4949"
   },
   {
@@ -1801,8 +2503,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png",
-    "tokenColor": "#5281d6"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png",
+    "tokenColor": "#a6cef1"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
+    "decimals": 6,
+    "name": "UST (Wormhole)",
+    "symbol": "UST",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Wormhole is a generic message passing protocol that connects to multiple chains including Ethereum, Solana, Terra, Binance Smart Chain, Polygon, Avalanche and Oasis.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo.png",
+    "tokenColor": "#4c8df7"
   },
   {
     "chainId": 43114,
@@ -1813,7 +2527,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3/logo.png",
     "tokenColor": "#c8caff"
   },
   {
@@ -1825,7 +2539,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1/logo.png",
     "tokenColor": "#b1aa92"
   },
   {
@@ -1837,8 +2551,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png",
-    "tokenColor": "#ffba30"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png",
+    "tokenColor": "#ffbb31"
   },
   {
     "chainId": 43114,
@@ -1849,7 +2563,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "Revolutionizing the world of decentralized betting, Binary Cat allows users to bet on the price of crypto assets.",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xbca7f1998Dc9FFB70b086543a808960a460aBcA7/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xbca7f1998Dc9FFB70b086543a808960a460aBcA7/logo.png",
     "tokenColor": "#a3d7d7"
   },
   {
@@ -1861,7 +2575,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png",
     "tokenColor": "#f3f5f7"
   },
   {
@@ -1873,8 +2587,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437/logo.png",
-    "tokenColor": "#00dd99"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437/logo.png",
+    "tokenColor": "#00da98"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xc69Eba65e87889f0805dB717Af06797055A0BA07",
+    "decimals": 18,
+    "name": "NitroNetwork",
+    "symbol": "ncash",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Nitro Network is building the decentralized private communication network powered by IoT combined with LoRaWAN and 3G/4G/5G.This hyperconnected world will enable unlimited use cases in our everyday life.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xc69Eba65e87889f0805dB717Af06797055A0BA07/logo.png",
+    "tokenColor": "#20d0f7"
   },
   {
     "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
@@ -1886,7 +2612,7 @@
     "resourceLinks": [],
     "chainId": 43114,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
     "tokenColor": "#44bb9b"
   },
   {
@@ -1898,7 +2624,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xc7B5D72C836e718cDA8888eaf03707fAef675079/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e9ef54a/chains/43114/contracts/0xc7B5D72C836e718cDA8888eaf03707fAef675079/logo.png",
     "tokenColor": "#2cd0ff"
   },
   {
@@ -1910,8 +2636,30 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED/logo.png",
     "tokenColor": "#dcb877"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xcCf719c44e2C36E919335692E89d22Cf13D6aaEB",
+    "decimals": 18,
+    "name": "OpenBlox Token",
+    "symbol": "OBX",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "OpenBlox is an EVM-based NFT Gaming Platform focusing on Play and Earn and IP Branding, that leverages one set of Blox NFTs and tokens across all games in the OpenBlox universe."
+  },
+  {
+    "chainId": 43114,
+    "address": "0xd13eB71515DC48a8a367D12F844e5737bab415dF",
+    "decimals": 18,
+    "name": "Spice",
+    "symbol": "SFI",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xd13eB71515DC48a8a367D12F844e5737bab415dF/logo.png",
+    "tokenColor": "#fefcfc"
   },
   {
     "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
@@ -1922,7 +2670,7 @@
     "resourceLinks": [],
     "chainId": 43114,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png",
     "tokenColor": "#fdf2f2"
   },
   {
@@ -1934,7 +2682,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xd501281565bf7789224523144Fe5D98e8B28f267/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xd501281565bf7789224523144Fe5D98e8B28f267/logo.png",
     "tokenColor": "#d7abb7"
   },
   {
@@ -1946,8 +2694,20 @@
     "resourceLinks": [],
     "chainId": 43114,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png",
     "tokenColor": "#ffba31"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+    "decimals": 18,
+    "name": "beefy.finance",
+    "symbol": "BIFI",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "The MultiChain Yield Optimizer.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xd6070ae98b8069de6B494332d1A1a81B6179D960/logo.png",
+    "tokenColor": "#eadfd2"
   },
   {
     "chainId": 43114,
@@ -1958,8 +2718,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xd9D90f882CDdD6063959A9d837B05Cb748718A05/logo.png",
-    "tokenColor": "#3c98cd"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xd9D90f882CDdD6063959A9d837B05Cb748718A05/logo.png",
+    "tokenColor": "#3d9dcc"
   },
   {
     "chainId": 43114,
@@ -1970,8 +2730,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xdb333724fAE72b4253FC3d44c8270CBBC86d147b/logo.png",
-    "tokenColor": "#82c54a"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xdb333724fAE72b4253FC3d44c8270CBBC86d147b/logo.png",
+    "tokenColor": "#80c449"
   },
   {
     "chainId": 43114,
@@ -1982,7 +2742,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xde3A24028580884448a5397872046a019649b084/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e9ef54a/chains/43114/contracts/0xde3A24028580884448a5397872046a019649b084/logo.png",
     "tokenColor": "#fcfdfd"
   },
   {
@@ -1994,7 +2754,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo.png",
     "tokenColor": "#39deff"
   },
   {
@@ -2006,8 +2766,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xe19A1684873faB5Fb694CfD06607100A632fF21c/logo.png",
-    "tokenColor": "#f9d93d"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xe19A1684873faB5Fb694CfD06607100A632fF21c/logo.png",
+    "tokenColor": "#ffde45"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xe7250b05bd8DEE615ecC681eda1196aDD5156F2B",
+    "decimals": 18,
+    "name": "Herd JOE",
+    "symbol": "hJOE",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Providing boosted yields and returning the profits to the Herd!",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xe7250b05bd8DEE615ecC681eda1196aDD5156F2B/logo.png",
+    "tokenColor": "#e672ac"
   },
   {
     "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
@@ -2018,8 +2790,8 @@
     "resourceLinks": [],
     "chainId": 43114,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/logo.png",
-    "tokenColor": "#f15050"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/logo.png",
+    "tokenColor": "#f04f4f"
   },
   {
     "chainId": 43114,
@@ -2030,8 +2802,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef/logo.png",
     "tokenColor": "#09c984"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xeb8343D5284CaEc921F035207ca94DB6BAaaCBcd",
+    "decimals": 18,
+    "name": "Echidna Token",
+    "symbol": "ECD",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xeb8343D5284CaEc921F035207ca94DB6BAaaCBcd/logo.png",
+    "tokenColor": "#fdf6f6"
   },
   {
     "chainId": 43114,
@@ -2042,8 +2826,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6/logo.png",
-    "tokenColor": "#33a5f8"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e9ef54a/chains/43114/contracts/0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6/logo.png",
+    "tokenColor": "#30a4f8"
   },
   {
     "chainId": 43114,
@@ -2054,7 +2838,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xf03Dccaec9A28200A6708c686cf0b8BF26dDc356/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xf03Dccaec9A28200A6708c686cf0b8BF26dDc356/logo.png",
     "tokenColor": "#fb4947"
   },
   {
@@ -2066,7 +2850,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png",
     "tokenColor": "#f4f2f2"
   },
   {
@@ -2078,7 +2862,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xf32398dae246C5f672B52A54e9B413dFFcAe1A44/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xf32398dae246C5f672B52A54e9B413dFFcAe1A44/logo.png",
     "tokenColor": "#ba666d"
   },
   {
@@ -2090,7 +2874,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xf39f9671906d8630812f9d9863bBEf5D523c84Ab/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xf39f9671906d8630812f9d9863bBEf5D523c84Ab/logo.png",
     "tokenColor": "#fde9f3"
   },
   {
@@ -2102,7 +2886,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xf3EC49ACb3084618121741e4BBB20996D383E9b2/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xf3EC49ACb3084618121741e4BBB20996D383E9b2/logo.png",
     "tokenColor": "#ffda39"
   },
   {
@@ -2114,8 +2898,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172/logo.png",
-    "tokenColor": "#ffdc05"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172/logo.png",
+    "tokenColor": "#ffe20a"
   },
   {
     "chainId": 43114,
@@ -2126,8 +2910,20 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xf69c2fcd9128d49DfA22348C69177f9380438eB8/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xf69c2fcd9128d49DfA22348C69177f9380438eB8/logo.png",
     "tokenColor": "#c9767c"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+    "decimals": 18,
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Pendle is essentially a protocol for tokenizing yield and an AMM for trading tokenized yield and other time-decaying assets.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xfB98B335551a418cD0737375a2ea0ded62Ea213b/logo.png",
+    "tokenColor": "#dfd7d7"
   },
   {
     "chainId": 43114,
@@ -2138,7 +2934,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xfC108f21931576a21D0b4b301935DAc80d9E5086/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xfC108f21931576a21D0b4b301935DAc80d9E5086/logo.png",
     "tokenColor": "#e3821a"
   },
   {
@@ -2150,7 +2946,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2/logo.png",
     "tokenColor": "#d9d3bc"
   },
   {
@@ -2162,7 +2958,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5/logo.png",
-    "tokenColor": "#f85528"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5/logo.png",
+    "tokenColor": "#ff4f38"
   }
 ]

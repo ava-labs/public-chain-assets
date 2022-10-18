@@ -8,7 +8,7 @@
     "resourceLinks": [],
     "chainId": 43113,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43113/contracts/0x0b9d5D9136855f6FEc3c0993feE6E9CE8a297846/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/contracts/0x0b9d5D9136855f6FEc3c0993feE6E9CE8a297846/logo.png",
     "tokenColor": "#587aff"
   },
   {
@@ -32,7 +32,7 @@
     "resourceLinks": [],
     "chainId": 43113,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43113/contracts/0x1741B9C475e0861a43B03F984928082Ac4f3fB95/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/contracts/0x1741B9C475e0861a43B03F984928082Ac4f3fB95/logo.png",
     "tokenColor": "#587aff"
   },
   {
@@ -44,8 +44,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43113/contracts/0x34B6C87bb59Eb37EFe35C8d594a234Cd8C654D50/logo.png",
-    "tokenColor": "#ffba30"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43113/contracts/0x34B6C87bb59Eb37EFe35C8d594a234Cd8C654D50/logo.png",
+    "tokenColor": "#ffbb31"
   },
   {
     "chainId": 43113,
@@ -56,8 +56,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43113/contracts/0x5ADD8Db0d6fafd1c6F87e8f75A4582d9C6B56dF8/logo.png",
-    "tokenColor": "#c3a57f"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43113/contracts/0x5ADD8Db0d6fafd1c6F87e8f75A4582d9C6B56dF8/logo.png",
+    "tokenColor": "#c2a47d"
   },
   {
     "chainId": 43113,
@@ -68,8 +68,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43113/contracts/0x72C14f7fB8B14040dA6E5b1B9D1B9438ebD85F58/logo.png",
-    "tokenColor": "#e7abd8"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43113/contracts/0x72C14f7fB8B14040dA6E5b1B9D1B9438ebD85F58/logo.png",
+    "tokenColor": "#e6a9d7"
   },
   {
     "address": "0x7fCDc2C1EF3e4A0bCC8155a558bB20a7218f2b05",
@@ -80,7 +80,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43113/contracts/0x7fCDc2C1EF3e4A0bCC8155a558bB20a7218f2b05/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/contracts/0x7fCDc2C1EF3e4A0bCC8155a558bB20a7218f2b05/logo.png",
     "tokenColor": "#f4f2f2"
   },
   {
@@ -92,8 +92,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43113/contracts/0x83080D4b5fC60e22dFFA8d14AD3BB41Dde48F199/logo.png",
-    "tokenColor": "#ff6b01"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43113/contracts/0x83080D4b5fC60e22dFFA8d14AD3BB41Dde48F199/logo.png",
+    "tokenColor": "#ff6d02"
   },
   {
     "address": "0xAFDa926d549a67229D8DB529638E0BAFCDb66458",
@@ -104,7 +104,7 @@
     "resourceLinks": [],
     "chainId": 43113,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43113/contracts/0xAFDa926d549a67229D8DB529638E0BAFCDb66458/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/contracts/0xAFDa926d549a67229D8DB529638E0BAFCDb66458/logo.png",
     "tokenColor": "#15b5b5"
   },
   {
@@ -116,7 +116,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43113/contracts/0xEa81F6972aDf76765Fd1435E119Acc0Aafc80BeA/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43113/contracts/0xEa81F6972aDf76765Fd1435E119Acc0Aafc80BeA/logo.png",
     "tokenColor": "#e5dddd"
   },
   {
@@ -128,8 +128,8 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43113/contracts/0xFbFe561E4E998A7C4F516561a2e4Ec14a702f50B/logo.png",
-    "tokenColor": "#e7b494"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43113/contracts/0xFbFe561E4E998A7C4F516561a2e4Ec14a702f50B/logo.png",
+    "tokenColor": "#e7b492"
   },
   {
     "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
@@ -140,7 +140,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43113/contracts/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43113/contracts/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/logo.png",
     "tokenColor": "#fbfbfb"
   },
   {
@@ -152,7 +152,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43113/contracts/0xf4E0A9224e8827dE91050b528F34e2F99C82Fbf6/logo.png",
-    "tokenColor": "#ffeff6"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43113/contracts/0xf4E0A9224e8827dE91050b528F34e2F99C82Fbf6/logo.png",
+    "tokenColor": "#ffeef5"
   }
 ]

@@ -16,7 +16,7 @@
     "symbol": "WGM",
     "decimals": 18,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e04b75b/chains/11111/token-logo.png"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/11111/token-logo.png"
   },
   "utilityAddresses": {
     "multicall": "0x7e5f336f8baFc0bf775DafE091133A37244C285c"
@@ -33,5 +33,5 @@
   ],
   "network": "avalanche",
   "primaryColor": "#FFE769",
-  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e04b75b/chains/11111/chain-logo.png"
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/11111/chain-logo.png"
 }

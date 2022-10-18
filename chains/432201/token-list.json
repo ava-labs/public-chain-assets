@@ -20,7 +20,7 @@
     "decimals": 18,
     "assetType": "Fixed Cap",
     "chainId": 432201,
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/432201/contracts/0x2B21b816e82A4f186c4e9a8C9ae654ba353B91A2/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/432201/contracts/0x2B21b816e82A4f186c4e9a8C9ae654ba353B91A2/logo.png",
     "tokenColor": "#ffb511"
   },
   {
@@ -32,7 +32,7 @@
     "decimals": 18,
     "assetType": "Fixed Cap",
     "chainId": 432201,
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/432201/contracts/0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/432201/contracts/0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c/logo.png",
     "tokenColor": "#fefcfc"
   },
   {
@@ -51,7 +51,7 @@
     "decimals": 18,
     "assetType": "Fixed Cap",
     "chainId": 432201,
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/432201/contracts/0x8B32CF176c409d7d40838295fb225c22d3937032/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/432201/contracts/0x8B32CF176c409d7d40838295fb225c22d3937032/logo.png",
     "tokenColor": "#fefdfd"
   },
   {

@@ -16,7 +16,7 @@
     "symbol": "AVAX",
     "decimals": 18,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e04b75b/chains/43114/token-logo.png"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/token-logo.png"
   },
   "utilityAddresses": {
     "multicall": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4"
@@ -29,5 +29,5 @@
   },
   "network": "avalanche",
   "primaryColor": "#f34333",
-  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e04b75b/chains/43114/chain-logo.png"
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/chain-logo.png"
 }

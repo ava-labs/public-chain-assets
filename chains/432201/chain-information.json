@@ -16,7 +16,7 @@
     "symbol": "ALOT",
     "decimals": 18,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e04b75b/chains/432201/token-logo.png"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/432201/token-logo.png"
   },
   "utilityAddresses": {
     "multicall": "0xe07e60594653D03165402D3B491d30Fe2d2C0A6A"
@@ -51,5 +51,5 @@
   ],
   "network": "avalanche",
   "primaryColor": "#EB1357",
-  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e04b75b/chains/432201/chain-logo.png"
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/432201/chain-logo.png"
 }

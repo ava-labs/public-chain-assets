@@ -16,7 +16,7 @@
     "symbol": "RISE",
     "description": "The native token of the Highrise Subnet, backing the Highrise World economy.",
     "decimals": 18,
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e04b75b/chains/8184/token-logo.png"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/8184/token-logo.png"
   },
   "utilityAddresses": {
     "multicall": "0x0B5d620cF5Bb99e1a58fF6e3628687D51c0Ac94c"
@@ -50,5 +50,5 @@
   ],
   "network": "avalanche",
   "primaryColor": "#9475FD",
-  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e04b75b/chains/8184/chain-logo.png"
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/8184/chain-logo.png"
 }

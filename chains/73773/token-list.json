@@ -43,7 +43,7 @@
       }
     ],
     "chainId": 73773,
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/73773/contracts/0x5ee5731bDC8eDAEF16e462EfdE644bCC9a42D7E0/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/73773/contracts/0x5ee5731bDC8eDAEF16e462EfdE644bCC9a42D7E0/logo.png",
     "tokenColor": "#00bef1"
   },
   {
@@ -90,7 +90,7 @@
       }
     ],
     "chainId": 73773,
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/73773/contracts/0x6f51FE27fcD59d4940a78f5f0cEBaC3C90495B5C/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/73773/contracts/0x6f51FE27fcD59d4940a78f5f0cEBaC3C90495B5C/logo.png",
     "tokenColor": "#ffe306"
   },
   {
@@ -137,7 +137,7 @@
       }
     ],
     "chainId": 73773,
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/73773/contracts/0xAf27c4753a491C76c35671612eb193a21fa59352/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/73773/contracts/0xAf27c4753a491C76c35671612eb193a21fa59352/logo.png",
     "tokenColor": "#f8ae13"
   }
 ]
