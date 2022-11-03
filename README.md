@@ -15,4 +15,4 @@ Each chain in the `chains` folder may contain the following files:
 - `upgrade.json`: Contains network upgrades for the chain. For more
   information, see 
   https://docs.avax.network/subnets/subnet-upgrade#network-upgrades.
-- `airdrop.json`: (wagmi) Contains a list of addresses that were airdropped tokens in genesis. Note: this file must be referenced in the chain config.
+- `airdrop.json`: Contains a list of addresses that were airdropped tokens in genesis. Note: this file must be referenced in the chain config and the hash must be specified in genesis.
