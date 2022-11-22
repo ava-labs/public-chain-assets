@@ -1,0 +1,55 @@
+{
+  "chainName": "Dexalot Subnet",
+  "description": "The Dexalot Exchange EVM subnet is a revolutionary decentralized exchange aiming at bringing the traditional centralized exchange look and feel, through a decentralized on-chain application. Dexalot users can trade crypto securely and efficiently, with no slippage or custody risk. It is built on Avalanche Subnet technology, the most effective scaling solution in the blockchain industry.",
+  "chainId": 432204,
+  "platformChainId": "21Ths5Afqi5r4PaoV8r8cruGZWhN11y5rxvy89K8px7pKy3P8E",
+  "subnetId": "wenKDikJWAYQs3f2v9JhV86fC6kHZwkFZsuUBftnmgZ4QXPnu",
+  "vmId": "mDVSxzeWHmgqrcXK1tPYqavqTK5MC3mMqme6r3a6cz2fqMfqf",
+  "vmName": "EVM",
+  "subnetExplorerUriId": "dexalot",
+  "explorerUrl": "https://subnets.avax.network/dexalot",
+  "rpcUrl": "https://subnets.avax.network/dexalot/mainnet/rpc",
+  "wsUrl": "wss://subnets.avax.network/dexalot/mainnet/ws",
+  "isTestnet": false,
+  "networkToken": {
+    "name": "Dexalot",
+    "symbol": "ALOT",
+    "decimals": 18,
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/a89ee50/chains/432204/token-logo.png"
+  },
+  "utilityAddresses": {
+    "multicall": "0x8B32CF176c409d7d40838295fb225c22d3937032"
+  },
+  "pricingProviders": {
+    "coingecko": {
+      "nativeTokenId": "dexalot"
+    }
+  },
+  "officialSite": "https://app.dexalot.com/trade",
+  "resourceLinks": [
+    {
+      "type": "Documentation",
+      "url": "https://dexalot.com/faq.html"
+    },
+    {
+      "type": "Discord",
+      "url": "https://discord.com/invite/S4NP9w7Xwn"
+    },
+    {
+      "type": "Twitter",
+      "url": "https://twitter.com/dexalotcom"
+    },
+    {
+      "type": "Medium",
+      "url": "https://medium.com/dexalot"
+    },
+    {
+      "type": "Github",
+      "url": "https://github.com/Dexalot/dexalot-subnet"
+    }
+  ],
+  "network": "avalanche",
+  "primaryColor": "#EB1357",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/a89ee50/chains/432204/chain-logo.png"
+}

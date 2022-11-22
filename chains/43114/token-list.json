@@ -1711,8 +1711,8 @@
     "resourceLinks": [],
     "description": "",
     "assetType": "Stablecoin",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png",
-    "tokenColor": "#fcfdfd"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/61c33b7/chains/43114/contracts/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png",
+    "tokenColor": "#fafdfd"
   },
   {
     "chainId": 43114,
@@ -2612,8 +2612,8 @@
     "resourceLinks": [],
     "chainId": 43114,
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
-    "tokenColor": "#44bb9b"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/61c33b7/chains/43114/contracts/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
+    "tokenColor": "#fafdfd"
   },
   {
     "chainId": 43114,
@@ -2732,18 +2732,6 @@
     "description": "",
     "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xdb333724fAE72b4253FC3d44c8270CBBC86d147b/logo.png",
     "tokenColor": "#80c449"
-  },
-  {
-    "chainId": 43114,
-    "address": "0xde3A24028580884448a5397872046a019649b084",
-    "decimals": 6,
-    "name": "Tether USD",
-    "symbol": "USDT",
-    "contractType": "ERC-20",
-    "resourceLinks": [],
-    "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e9ef54a/chains/43114/contracts/0xde3A24028580884448a5397872046a019649b084/logo.png",
-    "tokenColor": "#fcfdfd"
   },
   {
     "chainId": 43114,
