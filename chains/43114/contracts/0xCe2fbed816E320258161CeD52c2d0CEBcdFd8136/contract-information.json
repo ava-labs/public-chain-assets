@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136",
+  "decimals": 18,
+  "name": "BRIBE",
+  "symbol": "BRIBE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136/logo.png",
+  "tokenColor": "#62a747"
+}

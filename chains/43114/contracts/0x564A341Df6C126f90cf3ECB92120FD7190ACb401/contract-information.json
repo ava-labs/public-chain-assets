@@ -1,0 +1,13 @@
+{
+  "chainId": 43114,
+  "address": "0x564A341Df6C126f90cf3ECB92120FD7190ACb401",
+  "decimals": 6,
+  "name": "BiLira",
+  "symbol": "TRYB",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "assetType": "Stablecoin",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x564A341Df6C126f90cf3ECB92120FD7190ACb401/logo.png",
+  "tokenColor": "#eaeff3"
+}

@@ -1,0 +1,13 @@
+{
+  "chainId": 43114,
+  "address": "0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98",
+  "decimals": 18,
+  "name": "Frax - Anyswap",
+  "symbol": "FRAX",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "assetType": "Stablecoin",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98/logo.png",
+  "tokenColor": "#fcfcfc"
+}

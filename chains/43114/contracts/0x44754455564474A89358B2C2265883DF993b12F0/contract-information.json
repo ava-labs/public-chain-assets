@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x44754455564474A89358B2C2265883DF993b12F0",
+  "decimals": 18,
+  "name": "ZeroSwapToken",
+  "symbol": "ZEE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x44754455564474A89358B2C2265883DF993b12F0/logo.png",
+  "tokenColor": "#f5f8fe"
+}

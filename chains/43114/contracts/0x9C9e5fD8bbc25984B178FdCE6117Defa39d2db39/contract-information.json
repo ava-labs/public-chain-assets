@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+  "decimals": 18,
+  "name": "BUSD Token",
+  "symbol": "BUSD",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "BUSD is a 1:1 USD-backed stablecoin approved by the New York State Department of Financial Services (NYDFS) and issued in partnership with Paxos.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39/logo.png",
+  "tokenColor": "#ffc202"
+}

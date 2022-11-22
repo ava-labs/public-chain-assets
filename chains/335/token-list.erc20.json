@@ -1,0 +1,46 @@
+[
+  {
+    "address": "0x3C351E1afdd1b1BC44e931E12D4E05D6125eaeCa",
+    "decimals": 18,
+    "name": "xJEWEL",
+    "symbol": "XJEWEL",
+    "chainId": 335,
+    "description": "",
+    "contractType": "ERC-20",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/335/contracts/0x3C351E1afdd1b1BC44e931E12D4E05D6125eaeCa/logo.png",
+    "tokenColor": "#d6db60"
+  },
+  {
+    "address": "0x602daa4Db4778Cb958b161F11574b4A206606b4B",
+    "decimals": 18,
+    "name": "Wrapped JEWEL",
+    "symbol": "WJEWEL",
+    "chainId": 335,
+    "description": "",
+    "contractType": "ERC-20",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/335/contracts/0x602daa4Db4778Cb958b161F11574b4A206606b4B/logo.png",
+    "tokenColor": "#d6db60"
+  },
+  {
+    "address": "0x992Bdf6a1B1c91BBA89765cd7B5a60894c6180a0",
+    "decimals": 18,
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "chainId": 335,
+    "description": "",
+    "contractType": "ERC-20",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/335/contracts/0x992Bdf6a1B1c91BBA89765cd7B5a60894c6180a0/logo.png",
+    "tokenColor": "#fefdfd"
+  },
+  {
+    "address": "0xa5c47B4bEb35215fB0CF0Ea6516F9921591c3aCE",
+    "decimals": 18,
+    "name": "Crystals",
+    "symbol": "CRYSTAL",
+    "chainId": 335,
+    "description": "",
+    "contractType": "ERC-20",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/335/contracts/0xa5c47B4bEb35215fB0CF0Ea6516F9921591c3aCE/logo.png",
+    "tokenColor": "#d5ebee"
+  }
+]

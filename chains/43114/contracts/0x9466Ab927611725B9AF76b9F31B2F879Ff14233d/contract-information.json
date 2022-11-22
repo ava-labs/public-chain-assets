@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x9466Ab927611725B9AF76b9F31B2F879Ff14233d",
+  "decimals": 18,
+  "name": "Ripae",
+  "symbol": "PAE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "The better algorithmic stablecoin on Avalanche, pegged to the price of 1 AVAX via seigniorage.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x9466Ab927611725B9AF76b9F31B2F879Ff14233d/logo.png",
+  "tokenColor": "#d5cbcb"
+}

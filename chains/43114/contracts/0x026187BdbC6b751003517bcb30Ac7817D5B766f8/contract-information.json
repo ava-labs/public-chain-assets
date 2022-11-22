@@ -1,0 +1,13 @@
+{
+  "chainId": 43114,
+  "address": "0x026187BdbC6b751003517bcb30Ac7817D5B766f8",
+  "decimals": 18,
+  "name": "Defrost Finance H2O",
+  "symbol": "H2O",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "H2O is the first stablecoin native to Avalanche. It is minted through over-collateralization using LPs from partner platforms. The H2O loans allow users to further build upon their positions by taking out an H2O loan against the LPs and using that H2O for further yields.",
+  "assetType": "Stablecoin",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png",
+  "tokenColor": "#5392e3"
+}

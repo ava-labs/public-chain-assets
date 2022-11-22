@@ -1,0 +1,12 @@
+{
+  "address": "0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4",
+  "name": "Vector",
+  "symbol": "VTX",
+  "contractType": "ERC-20",
+  "decimals": 18,
+  "resourceLinks": [],
+  "chainId": 43114,
+  "description": "Vector Finance is a ve-token yield optimizer building on top of Platypus Finance and Trader Joe. Vector enables users to generate boosted yields on these platforms without having to stake their native token.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4/logo.png",
+  "tokenColor": "#fdfdfe"
+}

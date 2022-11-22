@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+  "decimals": 18,
+  "name": "Pendle",
+  "symbol": "PENDLE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Pendle is essentially a protocol for tokenizing yield and an AMM for trading tokenized yield and other time-decaying assets.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xfB98B335551a418cD0737375a2ea0ded62Ea213b/logo.png",
+  "tokenColor": "#dfd7d7"
+}

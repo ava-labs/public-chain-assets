@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f",
+  "decimals": 6,
+  "name": "ENXT Token",
+  "symbol": "ENXT",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f/logo.png",
+  "tokenColor": "#f8fafb"
+}

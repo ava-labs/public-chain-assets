@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+  "decimals": 18,
+  "name": "Anyswap",
+  "symbol": "ANY",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Anyswap is a mpc decentralized cross-chain swap protocol.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
+  "tokenColor": "#fcfbfe"
+}

@@ -1,0 +1,47 @@
+{
+  "address": "0x5ee5731bDC8eDAEF16e462EfdE644bCC9a42D7E0",
+  "name": "CRA",
+  "symbol": "CRA",
+  "description": "CRA is a governance token which is rewarded via staking, and playing the game during the incentive period.",
+  "contractType": "ERC-20",
+  "decimals": 18,
+  "assetType": "Fixed Cap",
+  "officialSite": "https://www.crabada.com/",
+  "resourceLinks": [
+    {
+      "type": "Blog",
+      "url": "https://medium.com/@PlayCrabada"
+    },
+    {
+      "type": "Twitter",
+      "url": "https://twitter.com/playcrabada"
+    },
+    {
+      "type": "Github",
+      "url": "https://github.com/crabada"
+    },
+    {
+      "type": "Telegram",
+      "url": "https://t.me/playcrabada"
+    },
+    {
+      "type": "Discord",
+      "url": "https://discord.gg/Djy57Zhau9"
+    },
+    {
+      "type": "Whitepaper",
+      "url": "https://docs.crabada.com/"
+    },
+    {
+      "type": "CoinMarketCap",
+      "url": "https://coinmarketcap.com/currencies/crabada/"
+    },
+    {
+      "type": "CoinGecko",
+      "url": "https://www.coingecko.com/en/coins/crabada"
+    }
+  ],
+  "chainId": 73773,
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/73773/contracts/0x5ee5731bDC8eDAEF16e462EfdE644bCC9a42D7E0/logo.png",
+  "tokenColor": "#00bef1"
+}

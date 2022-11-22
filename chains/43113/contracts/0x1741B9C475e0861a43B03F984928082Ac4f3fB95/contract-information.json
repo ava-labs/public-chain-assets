@@ -1,0 +1,12 @@
+{
+  "address": "0x1741B9C475e0861a43B03F984928082Ac4f3fB95",
+  "name": "ChainLink Token",
+  "symbol": "LINK.e",
+  "contractType": "ERC-20",
+  "decimals": 18,
+  "resourceLinks": [],
+  "chainId": 43113,
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/contracts/0x1741B9C475e0861a43B03F984928082Ac4f3fB95/logo.png",
+  "tokenColor": "#587aff"
+}

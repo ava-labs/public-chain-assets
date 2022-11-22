@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xA5e2cFe48fe8C4ABD682CA2B10fCAaFE34b8774c",
+  "decimals": 18,
+  "name": "PSHARE",
+  "symbol": "PSHARE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xA5e2cFe48fe8C4ABD682CA2B10fCAaFE34b8774c/logo.png",
+  "tokenColor": "#e8e3e3"
+}

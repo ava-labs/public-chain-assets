@@ -1,0 +1,10 @@
+{
+  "chainId": 43114,
+  "address": "0xcCf719c44e2C36E919335692E89d22Cf13D6aaEB",
+  "decimals": 18,
+  "name": "OpenBlox Token",
+  "symbol": "OBX",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "OpenBlox is an EVM-based NFT Gaming Platform focusing on Play and Earn and IP Branding, that leverages one set of Blox NFTs and tokens across all games in the OpenBlox universe."
+}

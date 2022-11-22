@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
+  "decimals": 8,
+  "name": "Blocknet",
+  "symbol": "aaBLOCK",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50/logo.png",
+  "tokenColor": "#a68a8a"
+}

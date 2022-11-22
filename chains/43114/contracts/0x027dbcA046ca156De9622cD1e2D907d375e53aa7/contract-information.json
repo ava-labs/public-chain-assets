@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
+  "decimals": 9,
+  "name": "Ampleforth",
+  "symbol": "AMPL",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x027dbcA046ca156De9622cD1e2D907d375e53aa7/logo.png",
+  "tokenColor": "#fbfbfb"
+}

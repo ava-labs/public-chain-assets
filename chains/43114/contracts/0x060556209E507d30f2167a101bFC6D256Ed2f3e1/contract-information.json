@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x060556209E507d30f2167a101bFC6D256Ed2f3e1",
+  "decimals": 18,
+  "name": "xPTP",
+  "symbol": "xPTP",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Vector Finance is a ve-token yield optimizer building on top of Platypus Finance and Trader Joe. Vector enables users to generate boosted yields on these platforms without having to stake their native token.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x060556209E507d30f2167a101bFC6D256Ed2f3e1/logo.png",
+  "tokenColor": "#fdfdfe"
+}

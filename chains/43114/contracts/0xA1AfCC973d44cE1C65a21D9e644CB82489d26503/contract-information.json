@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xA1AfCC973d44cE1C65a21D9e644CB82489d26503",
+  "decimals": 18,
+  "name": "RunBlox Token",
+  "symbol": "RUX",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "RunBlox is not a separate individual product; it is part of the OpenBlox.io 's ecosystem-BloxVerse, and has interoperability with all the games built in BloxVerse.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xA1AfCC973d44cE1C65a21D9e644CB82489d26503/logo.png",
+  "tokenColor": "#faf8f8"
+}

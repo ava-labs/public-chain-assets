@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x15c841043e13fFAA9a99FabEa236D40F45615623",
+  "decimals": 18,
+  "name": "$BUSINESSES",
+  "symbol": "BUSINESSES",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Tycoons are highly desirable, collectible NFTs, they also generate $BUSINESSES.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x15c841043e13fFAA9a99FabEa236D40F45615623/logo.png",
+  "tokenColor": "#4ac7f7"
+}

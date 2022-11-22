@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1",
+  "decimals": 18,
+  "name": "SHIBAVAX",
+  "symbol": "SHIBX",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png",
+  "tokenColor": "#f5f0f5"
+}

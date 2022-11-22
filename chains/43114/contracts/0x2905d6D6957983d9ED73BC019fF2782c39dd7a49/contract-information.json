@@ -1,0 +1,12 @@
+{
+  "address": "0x2905d6D6957983d9ED73BC019fF2782c39dd7a49",
+  "chainId": 43114,
+  "name": "Snake City Token",
+  "symbol": "SNCT",
+  "decimals": 18,
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Snake City is a Play-to-Earn project on Avalanche. It is a game following the concept of the famous Slither which players control their Snake Armies to overcome challenges in the game or fight over other players in the Arena Battle to win rewards.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x2905d6D6957983d9ED73BC019fF2782c39dd7a49/logo.png",
+  "tokenColor": "#f5ecd9"
+}

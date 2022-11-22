@@ -1,0 +1,12 @@
+{
+  "address": "0x136Acd46C134E8269052c62A67042D6bDeDde3C9",
+  "chainId": 43114,
+  "name": "MEMOries",
+  "symbol": "MEMO",
+  "decimals": 9,
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x136Acd46C134E8269052c62A67042D6bDeDde3C9/logo.png",
+  "tokenColor": "#c6f0ff"
+}

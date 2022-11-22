@@ -1,0 +1,12 @@
+{
+  "address": "0xAFDa926d549a67229D8DB529638E0BAFCDb66458",
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "contractType": "ERC-20",
+  "decimals": 18,
+  "resourceLinks": [],
+  "chainId": 43113,
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/contracts/0xAFDa926d549a67229D8DB529638E0BAFCDb66458/logo.png",
+  "tokenColor": "#15b5b5"
+}

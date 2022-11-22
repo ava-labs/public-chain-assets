@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x80D18b1c9Ab0c9B5D6A6d5173575417457d00a12",
+  "decimals": 6,
+  "name": "Axelar Wrapped ATOM",
+  "symbol": "axlATOM",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/0cbd8c7/chains/43114/contracts/0x80D18b1c9Ab0c9B5D6A6d5173575417457d00a12/logo.png",
+  "tokenColor": "#faf9f9"
+}

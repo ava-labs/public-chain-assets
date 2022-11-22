@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd",
+  "decimals": 18,
+  "name": "Wrapped AllianceBlock Token",
+  "symbol": "WALBT",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd/logo.png",
+  "tokenColor": "#3b91dd"
+}

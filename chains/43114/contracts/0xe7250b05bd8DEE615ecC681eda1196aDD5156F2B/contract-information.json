@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xe7250b05bd8DEE615ecC681eda1196aDD5156F2B",
+  "decimals": 18,
+  "name": "Herd JOE",
+  "symbol": "hJOE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Providing boosted yields and returning the profits to the Herd!",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xe7250b05bd8DEE615ecC681eda1196aDD5156F2B/logo.png",
+  "tokenColor": "#e672ac"
+}

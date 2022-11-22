@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12",
+  "decimals": 18,
+  "name": "ArgonToken",
+  "symbol": "ARGON",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12/logo.png",
+  "tokenColor": "#03d363"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
+  "name": "Colony Avalanche Index",
+  "symbol": "CAI",
+  "contractType": "ERC-20",
+  "decimals": 18,
+  "resourceLinks": [],
+  "chainId": 43114,
+  "description": "CAI is the benchmark index for the Avalanche ecosystem. Built in partnership with Colony and backed by Ava Labs, CAI is composed of AVAX and the top applications on Avalanche.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0/logo.png",
+  "tokenColor": "#f6f0fd"
+}

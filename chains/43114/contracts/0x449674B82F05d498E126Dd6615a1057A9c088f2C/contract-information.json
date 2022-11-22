@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x449674B82F05d498E126Dd6615a1057A9c088f2C",
+  "decimals": 18,
+  "name": "LostToken",
+  "symbol": "LOST",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Lost Worlds a 1st of its kind NFT platform experience where NFTs are geographically bound to real world locations for collectors to discover and mint.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x449674B82F05d498E126Dd6615a1057A9c088f2C/logo.png",
+  "tokenColor": "#ca71b0"
+}

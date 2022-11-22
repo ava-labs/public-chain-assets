@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x056D114fF1e01dE3BCA30F0Efa3655DF42880e5B",
+  "decimals": 18,
+  "name": "KyteOne",
+  "symbol": "KTE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x056D114fF1e01dE3BCA30F0Efa3655DF42880e5B/logo.png",
+  "tokenColor": "#e5dade"
+}

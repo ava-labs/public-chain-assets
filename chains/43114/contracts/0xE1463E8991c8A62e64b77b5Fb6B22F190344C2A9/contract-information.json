@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xE1463E8991c8A62e64b77b5Fb6B22F190344C2A9",
+  "decimals": 18,
+  "name": "PolkastarterToken",
+  "symbol": "POLS",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xE1463E8991c8A62e64b77b5Fb6B22F190344C2A9/logo.png",
+  "tokenColor": "#fefdfd"
+}

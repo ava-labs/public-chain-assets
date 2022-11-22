@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x61eCd63e42C27415696e10864d70ecEA4aA11289",
+  "decimals": 18,
+  "name": "RUGPULL",
+  "symbol": "RUGPULL",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x61eCd63e42C27415696e10864d70ecEA4aA11289/logo.png",
+  "tokenColor": "#f2deae"
+}

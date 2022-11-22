@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x0659133127749Cc0616Ed6632912ddF7cc8D7545",
+  "decimals": 18,
+  "name": "DefiLaunch Token",
+  "symbol": "DLAUNCH",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x0659133127749Cc0616Ed6632912ddF7cc8D7545/logo.png",
+  "tokenColor": "#f2c546"
+}

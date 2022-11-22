@@ -1,0 +1,12 @@
+{
+  "address": "0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260",
+  "decimals": 18,
+  "name": "Wrapped JEWEL",
+  "symbol": "WJEWEL",
+  "description": "",
+  "assetType": "Unlimited Cap",
+  "contractType": "ERC-20",
+  "chainId": 53935,
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/53935/contracts/0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260/logo.png",
+  "tokenColor": "#d6db60"
+}

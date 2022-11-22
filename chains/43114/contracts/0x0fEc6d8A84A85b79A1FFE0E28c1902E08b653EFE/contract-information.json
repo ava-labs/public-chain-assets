@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE",
+  "decimals": 18,
+  "name": "Hoopoe Ventures",
+  "symbol": "HOOP",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE/logo.png",
+  "tokenColor": "#318eff"
+}

@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xD4d026322C88C2d49942A75DfF920FCfbC5614C1",
+  "decimals": 18,
+  "name": "DEAPCOIN",
+  "symbol": "DEP",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1/logo.png",
+  "tokenColor": "#f5b119"
+}

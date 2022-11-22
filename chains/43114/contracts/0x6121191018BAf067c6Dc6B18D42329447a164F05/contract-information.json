@@ -1,0 +1,12 @@
+{
+  "address": "0x6121191018BAf067c6Dc6B18D42329447a164F05",
+  "chainId": 43114,
+  "name": "Pizza",
+  "symbol": "PIZZA",
+  "decimals": 18,
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Pizza Game is an Avalanche on-chain game inspired by our favorite childhood online game, Cookie Clicker. To play Pizza Game, you must purchase a Pizza Chef and stake them in the Pizzeria. Chefs are ERC721 NFTs and produce $PIZZA every minute when staked.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x6121191018BAf067c6Dc6B18D42329447a164F05/logo.png",
+  "tokenColor": "#f9ca4d"
+}

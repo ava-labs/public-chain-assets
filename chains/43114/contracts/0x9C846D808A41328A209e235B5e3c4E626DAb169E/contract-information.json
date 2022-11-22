@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x9C846D808A41328A209e235B5e3c4E626DAb169E",
+  "decimals": 18,
+  "name": "chikn fert",
+  "symbol": "FERT",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x9C846D808A41328A209e235B5e3c4E626DAb169E/logo.png",
+  "tokenColor": "#d4ebef"
+}

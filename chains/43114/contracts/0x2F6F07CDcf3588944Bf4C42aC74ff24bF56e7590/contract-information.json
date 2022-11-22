@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+  "decimals": 18,
+  "name": "StargateToken",
+  "symbol": "STG",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Stargate is a fully composable liquidity transport protocol.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png",
+  "tokenColor": "#c4b7b7"
+}

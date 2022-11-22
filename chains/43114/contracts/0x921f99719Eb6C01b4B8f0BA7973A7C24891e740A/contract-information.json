@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A",
+  "decimals": 18,
+  "name": "MetaBrands",
+  "symbol": "MAGE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A/logo.png",
+  "tokenColor": "#58a1a0"
+}

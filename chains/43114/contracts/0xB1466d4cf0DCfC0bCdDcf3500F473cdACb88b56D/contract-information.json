@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D",
+  "decimals": 18,
+  "name": "Weble Ecosystem Token",
+  "symbol": "WET",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png",
+  "tokenColor": "#a2c1bf"
+}

@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F",
+  "decimals": 18,
+  "name": "Dragon Crypto Argenti",
+  "symbol": "DCAR",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "DCAU is a fully minted token with deflationary mechanics. It is used in the upcoming old-school RPG blockchain game: The Legend of Aurum Draconis.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F/logo.png",
+  "tokenColor": "#e0dada"
+}

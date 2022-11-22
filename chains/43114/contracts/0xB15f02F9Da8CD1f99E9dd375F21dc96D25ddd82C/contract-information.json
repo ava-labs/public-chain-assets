@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C",
+  "decimals": 18,
+  "name": "HERMES",
+  "symbol": "HERMES",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C/logo.png",
+  "tokenColor": "#d5ac50"
+}

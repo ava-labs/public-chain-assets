@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b",
+  "decimals": 18,
+  "name": "WOWSwap",
+  "symbol": "WOW",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b/logo.png",
+  "tokenColor": "#e9af1d"
+}

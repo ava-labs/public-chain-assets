@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x7F29e7086453ed97283893E763aE0989F4B70f8d",
+  "decimals": 6,
+  "name": "DGC Token",
+  "symbol": "DGC",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x7F29e7086453ed97283893E763aE0989F4B70f8d/logo.png",
+  "tokenColor": "#fafcfa"
+}

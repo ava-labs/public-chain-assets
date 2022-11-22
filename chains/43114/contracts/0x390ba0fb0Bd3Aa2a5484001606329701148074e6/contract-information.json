@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x390ba0fb0Bd3Aa2a5484001606329701148074e6",
+  "decimals": 18,
+  "name": "THORChain ETH.RUNE",
+  "symbol": "RUNE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x390ba0fb0Bd3Aa2a5484001606329701148074e6/logo.png",
+  "tokenColor": "#0cf3d6"
+}

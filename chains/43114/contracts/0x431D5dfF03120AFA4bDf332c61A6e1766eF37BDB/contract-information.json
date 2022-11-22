@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+  "decimals": 18,
+  "name": "JPY Coin",
+  "symbol": "JPYC",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB/logo.png",
+  "tokenColor": "#f5f7fb"
+}

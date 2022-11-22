@@ -1,0 +1,19 @@
+{
+  "address": "0x11C3b7bADC5359242c34C68C1F0f071bFf49a3D8",
+  "chainId": 53935,
+  "name": "Honk",
+  "description": "The official token of Team Goose on DFK Chain",
+  "contractType": "ERC-20",
+  "assetType": "Fixed Cap",
+  "symbol": "HONK",
+  "tags": [
+    "Defi",
+    "Defi Kingdoms",
+    "Team Goose",
+    "Goose",
+    "Honk"
+  ],
+  "resourceLinks": [],
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/b9c4e18/chains/53935/contracts/0x11C3b7bADC5359242c34C68C1F0f071bFf49a3D8/logo.png",
+  "tokenColor": "#dfc37f"
+}

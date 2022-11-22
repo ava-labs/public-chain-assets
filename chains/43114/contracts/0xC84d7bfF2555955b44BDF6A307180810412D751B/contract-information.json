@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xC84d7bfF2555955b44BDF6A307180810412D751B",
+  "decimals": 18,
+  "name": "UMA Voting Token v1",
+  "symbol": "UMA",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xC84d7bfF2555955b44BDF6A307180810412D751B/logo.png",
+  "tokenColor": "#ff4949"
+}

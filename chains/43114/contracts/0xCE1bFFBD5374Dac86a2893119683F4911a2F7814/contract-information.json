@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
+  "decimals": 18,
+  "name": "Spell Token",
+  "symbol": "SPELL",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e9ef54a/chains/43114/contracts/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png",
+  "tokenColor": "#e2ccaf"
+}

@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x714f020C54cc9D104B6F4f6998C63ce2a31D1888",
+  "decimals": 18,
+  "name": "STEP.APP",
+  "symbol": "FITFI",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x714f020C54cc9D104B6F4f6998C63ce2a31D1888/logo.png",
+  "tokenColor": "#ffd546"
+}

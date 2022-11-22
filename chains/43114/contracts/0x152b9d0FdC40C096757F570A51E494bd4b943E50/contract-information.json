@@ -1,0 +1,12 @@
+{
+  "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+  "chainId": 43114,
+  "name": "Bitcoin",
+  "symbol": "BTC.b",
+  "decimals": 8,
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo.png",
+  "tokenColor": "#ff9f2d"
+}

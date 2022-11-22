@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+  "decimals": 18,
+  "name": "Colony Token",
+  "symbol": "CLY",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e9ef54a/chains/43114/contracts/0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6/logo.png",
+  "tokenColor": "#30a4f8"
+}

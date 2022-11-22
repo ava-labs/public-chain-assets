@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x51e48670098173025C477D9AA3f0efF7BF9f7812",
+  "decimals": 18,
+  "name": "DegenX",
+  "symbol": "DGNX",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "The DegenX ecosystem will empowers its holders and users to gain a passive income stream by providing services and tooling for everyone who want to settle in the DeFi space.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x51e48670098173025C477D9AA3f0efF7BF9f7812/logo.png",
+  "tokenColor": "#ff6c22"
+}

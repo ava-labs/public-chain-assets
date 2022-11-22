@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1",
+  "decimals": 18,
+  "name": "Tomb",
+  "symbol": "TOMB",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1/logo.png",
+  "tokenColor": "#b1aa92"
+}

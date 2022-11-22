@@ -1,0 +1,12 @@
+{
+  "address": "0x77777777777d4554c39223C354A05825b2E8Faa3",
+  "chainId": 43114,
+  "name": "Yeti Finance",
+  "symbol": "YETI",
+  "decimals": 18,
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Yeti Finance is a cutting edge decentralized borrowing protocol built on Avalanche that allows users to borrow up to 11x against LP tokens, staked assets like Liquid AVAX, and base assets like WETH - and over 20x on yield-bearing stablecoins, all at a 0% interest rate.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x77777777777d4554c39223C354A05825b2E8Faa3/logo.png",
+  "tokenColor": "#f0f7fc"
+}

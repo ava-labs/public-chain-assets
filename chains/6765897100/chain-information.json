@@ -1,0 +1,34 @@
+{
+  "chainName": "Green Dot Subnet",
+  "description": "The Green Dot Subnet is an EVM-compatible blockchain which supports Deloitte assets, including Close As You Go (CAYG), a secure cloud-based software platform built to help agencies manage recovery documentation for procurement and contracting, model policies and procedures, and plan for disaster.",
+  "chainId": 6765897100,
+  "platformChainId": "2AFKhMXMViQvEXg8oNgGbsuWL8Wm3SaUGYHb48Tj7QCBRKo4k8",
+  "subnetId": "BKHSoGxzuT8LrZLjQyRFXk4mENVxxH3pwHAb25EKv2tsT32QC",
+  "vmId": "WcwqtgMrCEgcT1J7sBG4h4M9EqnwgGPBptWUNyqcuJvCt616H",
+  "vmName": "EVM",
+  "subnetExplorerUriId": "green-dot",
+  "explorerUrl": "https://subnets.avax.network/green-dot",
+  "rpcUrl": "https://subnets.avax.network/dd/testnet/rpc",
+  "wsUrl": "wss://subnets.avax.network/dd/testnet/ws",
+  "isTestnet": true,
+  "networkToken": {
+    "name": "CAYG",
+    "symbol": "CAYG",
+    "description": "CAYG is the central token on the Green Dot Subnet and used to pay gas for all transactions.",
+    "decimals": 18,
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f81d275/chains/6765897100/token-logo.png"
+  },
+  "utilityAddresses": {
+    "multicall": "0x565d6f203b7c562Ede758F54Fbf1F1c551817C49"
+  },
+  "officialSite": "https://www.cayg.app/",
+  "resourceLinks": [
+    {
+      "type": "Twitter",
+      "url": "https://twitter.com/DeloitteGov"
+    }
+  ],
+  "network": "avalanche",
+  "primaryColor": "#85BC22",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f81d275/chains/6765897100/chain-logo.png"
+}

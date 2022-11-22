@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x5fC17416925789E0852FBFcd81c490ca4abc51F9",
+  "decimals": 18,
+  "name": "inSure",
+  "symbol": "SURE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "inSure DeFi is a Decentralized Insurance Ecosystem, trusted by thousands of community members to protect their crypto portfolios from scams, exchange closures, and drastic devaluations.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x5fC17416925789E0852FBFcd81c490ca4abc51F9/logo.png",
+  "tokenColor": "#f6f0fc"
+}

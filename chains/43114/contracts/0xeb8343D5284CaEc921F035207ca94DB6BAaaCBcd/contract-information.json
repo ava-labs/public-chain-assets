@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xeb8343D5284CaEc921F035207ca94DB6BAaaCBcd",
+  "decimals": 18,
+  "name": "Echidna Token",
+  "symbol": "ECD",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xeb8343D5284CaEc921F035207ca94DB6BAaaCBcd/logo.png",
+  "tokenColor": "#fdf6f6"
+}

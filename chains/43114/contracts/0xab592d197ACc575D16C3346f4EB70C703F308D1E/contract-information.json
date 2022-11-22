@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xab592d197ACc575D16C3346f4EB70C703F308D1E",
+  "decimals": 18,
+  "name": "chikn feed",
+  "symbol": "FEED",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png",
+  "tokenColor": "#eab66d"
+}

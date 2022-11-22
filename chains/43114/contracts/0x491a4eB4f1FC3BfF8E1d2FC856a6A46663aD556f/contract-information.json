@@ -1,0 +1,11 @@
+{
+  "chainId": 43114,
+  "address": "0x491a4eB4f1FC3BfF8E1d2FC856a6A46663aD556f",
+  "decimals": 4,
+  "name": "BRZ",
+  "symbol": "BRZ",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cc8b3a0/chains/43114/contracts/0x491a4eB4f1FC3BfF8E1d2FC856a6A46663aD556f/logo.png"
+}

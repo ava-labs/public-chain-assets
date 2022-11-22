@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x8aE8be25C23833e0A01Aa200403e826F611f9CD2",
+  "decimals": 18,
+  "name": "CRAFT",
+  "symbol": "CRAFT",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png",
+  "tokenColor": "#a5b6e5"
+}

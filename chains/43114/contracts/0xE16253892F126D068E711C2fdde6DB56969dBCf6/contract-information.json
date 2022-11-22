@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xE16253892F126D068E711C2fdde6DB56969dBCf6",
+  "decimals": 18,
+  "name": "Splash",
+  "symbol": "Splash Token",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xE16253892F126D068E711C2fdde6DB56969dBCf6/logo.png",
+  "tokenColor": "#7fb669"
+}

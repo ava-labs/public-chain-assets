@@ -1,0 +1,13 @@
+{
+  "chainId": 43114,
+  "address": "0x1a877B68bdA77d78EEa607443CcDE667B31B0CdF",
+  "decimals": 18,
+  "name": "PIGGY",
+  "symbol": "PIGGY",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "An algorithmic stablecoin on Avalanche, pegged to the price of 1 AVAX via seigniorage.",
+  "assetType": "Stablecoin",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x1a877B68bdA77d78EEa607443CcDE667B31B0CdF/logo.png",
+  "tokenColor": "#fbcbcf"
+}

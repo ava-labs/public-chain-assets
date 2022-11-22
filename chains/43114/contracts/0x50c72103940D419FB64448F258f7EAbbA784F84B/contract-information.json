@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x50c72103940D419FB64448F258f7EAbbA784F84B",
+  "decimals": 18,
+  "name": "Deliq",
+  "symbol": "DLQ",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "A liquidity outsourcing platform on Avalanche ecosystem to aggregate liquidity and deploying to exchanges like Trader Joe.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x50c72103940D419FB64448F258f7EAbbA784F84B/logo.png",
+  "tokenColor": "#f4f2f2"
+}

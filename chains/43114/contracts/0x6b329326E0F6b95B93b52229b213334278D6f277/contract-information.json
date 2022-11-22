@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x6b329326E0F6b95B93b52229b213334278D6f277",
+  "decimals": 18,
+  "name": "Basic Attention Token",
+  "symbol": "BAT",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/43114/contracts/0x6b329326E0F6b95B93b52229b213334278D6f277/logo.png",
+  "tokenColor": "#fffdfc"
+}

@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
+  "decimals": 18,
+  "name": "Husky",
+  "symbol": "HUSKY",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/logo.png",
+  "tokenColor": "#e6d1d1"
+}

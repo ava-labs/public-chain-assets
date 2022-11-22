@@ -1,0 +1,50 @@
+[
+  {
+    "address": "0x0b0E3a1F937F59359795E1ACfb9FC744F21a6894",
+    "name": "Mock USDT.e",
+    "symbol": "USDT.e",
+    "description": "Mock USDT.e Token",
+    "contractType": "ERC-20",
+    "decimals": 6,
+    "assetType": "Fixed Cap",
+    "chainId": 432201,
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f9c6549/chains/432201/contracts/0x0b0E3a1F937F59359795E1ACfb9FC744F21a6894/logo.png",
+    "tokenColor": "#f9fcfb"
+  },
+  {
+    "address": "0x2B21b816e82A4f186c4e9a8C9ae654ba353B91A2",
+    "name": "Mock SER",
+    "symbol": "SER",
+    "description": "Mock SER Token",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "assetType": "Fixed Cap",
+    "chainId": 432201,
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/432201/contracts/0x2B21b816e82A4f186c4e9a8C9ae654ba353B91A2/logo.png",
+    "tokenColor": "#ffb511"
+  },
+  {
+    "address": "0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c",
+    "name": "Mock LFG",
+    "symbol": "LFG",
+    "description": "Mock LFG Token",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "assetType": "Fixed Cap",
+    "chainId": 432201,
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/432201/contracts/0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c/logo.png",
+    "tokenColor": "#fefcfc"
+  },
+  {
+    "address": "0x8B32CF176c409d7d40838295fb225c22d3937032",
+    "name": "Mock AVAX",
+    "symbol": "AVAX",
+    "description": "Mock Avax Token",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "assetType": "Fixed Cap",
+    "chainId": 432201,
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/432201/contracts/0x8B32CF176c409d7d40838295fb225c22d3937032/logo.png",
+    "tokenColor": "#fefdfd"
+  }
+]

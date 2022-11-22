@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x093783055F9047C2BfF99c4e414501F8A147bC69",
+  "decimals": 18,
+  "name": "Dexalot Token",
+  "symbol": "ALOT",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Dexalot is a dex aiming at bringing the traditional centralized exchange look and feel to a decentralized on-chain application.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x093783055F9047C2BfF99c4e414501F8A147bC69/logo.png",
+  "tokenColor": "#ff3ca3"
+}

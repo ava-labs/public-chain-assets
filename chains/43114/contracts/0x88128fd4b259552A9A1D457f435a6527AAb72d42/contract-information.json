@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x88128fd4b259552A9A1D457f435a6527AAb72d42",
+  "decimals": 18,
+  "name": "Maker",
+  "symbol": "MKR.e",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x88128fd4b259552A9A1D457f435a6527AAb72d42/logo.png",
+  "tokenColor": "#52c6b3"
+}

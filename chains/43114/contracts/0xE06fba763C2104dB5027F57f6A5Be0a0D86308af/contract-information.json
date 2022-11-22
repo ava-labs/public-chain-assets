@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xE06fba763C2104dB5027F57f6A5Be0a0D86308af",
+  "decimals": 18,
+  "name": "Akitavax",
+  "symbol": "AKITAX",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xE06fba763C2104dB5027F57f6A5Be0a0D86308af/logo.png",
+  "tokenColor": "#f4c7c3"
+}

@@ -2355,26 +2355,6 @@
     "tokenColor": "#ac72da"
   },
   {
-    "address": "0xF6557bC62AC67744961479eA6c131B61444714d6",
-    "name": "Vacus Finance",
-    "symbol": "VCS",
-    "contractType": "ERC-721",
-    "resourceLinks": [],
-    "chainId": 43114,
-    "description": "Vacus finance is a Yield Aggregator (Vault) that provides optimized yield for users. The protocol is developed by Vacus team and will be governed by VCS holders.",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xF6557bC62AC67744961479eA6c131B61444714d6/logo.png",
-    "tokenColor": "#f05b27"
-  },
-  {
-    "address": "0xF675a87397a6239eAF95Ad948670a5b19D076c59",
-    "name": "Particle_Love_Is_In_The_Air",
-    "symbol": "LIITA",
-    "contractType": "ERC-721",
-    "resourceLinks": [],
-    "chainId": 43114,
-    "description": ""
-  },
-  {
     "chainId": 43114,
     "address": "0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6",
     "decimals": 18,

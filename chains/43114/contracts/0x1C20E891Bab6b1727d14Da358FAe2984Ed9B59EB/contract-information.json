@@ -1,0 +1,13 @@
+{
+  "chainId": 43114,
+  "address": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
+  "decimals": 18,
+  "name": "TrueUSD",
+  "symbol": "TUSD",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "assetType": "Stablecoin",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB/logo.png",
+  "tokenColor": "#fdfeff"
+}

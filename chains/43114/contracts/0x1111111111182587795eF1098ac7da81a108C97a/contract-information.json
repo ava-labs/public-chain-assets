@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x1111111111182587795eF1098ac7da81a108C97a",
+  "decimals": 18,
+  "name": "Bold Point Token",
+  "symbol": "BPT",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Bold Point is a NFT-based RPG game where players slash enemies, play against other players and get rewards from their crafting skills in the real world.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x1111111111182587795eF1098ac7da81a108C97a/logo.png",
+  "tokenColor": "#dfab52"
+}

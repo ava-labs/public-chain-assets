@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674",
+  "decimals": 6,
+  "name": "STEAK",
+  "symbol": "STEAK",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "SteakHut is a yield optimization protocol powered by the Avalanche Network. SteakHut's governance token (STEAK) represents ownership in the SteakHut protocol, with participants receiving a share of Steak Hut revenue, in the form of STEAK buy-backs, burnings, and dividends.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674/logo.png",
+  "tokenColor": "#e36aad"
+}

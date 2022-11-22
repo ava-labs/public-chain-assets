@@ -1,0 +1,12 @@
+{
+  "address": "0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c",
+  "name": "Mock LFG",
+  "symbol": "LFG",
+  "description": "Mock LFG Token",
+  "contractType": "ERC-20",
+  "decimals": 18,
+  "assetType": "Fixed Cap",
+  "chainId": 432201,
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/432201/contracts/0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c/logo.png",
+  "tokenColor": "#fefcfc"
+}

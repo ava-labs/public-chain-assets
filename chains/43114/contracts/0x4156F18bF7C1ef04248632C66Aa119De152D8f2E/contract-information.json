@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x4156F18bF7C1ef04248632C66Aa119De152D8f2E",
+  "decimals": 18,
+  "name": "Zeus Node Finance",
+  "symbol": "ZEUS",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Zeus Finance framework allows everybody to simply access and achieve outsized profits and APY with little to no work or understanding of the DeFi industry.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x4156F18bF7C1ef04248632C66Aa119De152D8f2E/logo.png",
+  "tokenColor": "#c1beda"
+}

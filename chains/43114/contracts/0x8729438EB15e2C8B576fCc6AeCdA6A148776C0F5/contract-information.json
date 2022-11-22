@@ -1,0 +1,12 @@
+{
+  "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+  "name": "BENQI",
+  "symbol": "QI",
+  "contractType": "ERC-20",
+  "decimals": 18,
+  "resourceLinks": [],
+  "chainId": 43114,
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png",
+  "tokenColor": "#fbfbfb"
+}

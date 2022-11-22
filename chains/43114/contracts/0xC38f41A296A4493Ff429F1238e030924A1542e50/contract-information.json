@@ -1,0 +1,12 @@
+{
+  "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
+  "name": "Snowball",
+  "symbol": "SNOB",
+  "contractType": "ERC-20",
+  "decimals": 18,
+  "resourceLinks": [],
+  "chainId": 43114,
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xC38f41A296A4493Ff429F1238e030924A1542e50/logo.png",
+  "tokenColor": "#31adff"
+}

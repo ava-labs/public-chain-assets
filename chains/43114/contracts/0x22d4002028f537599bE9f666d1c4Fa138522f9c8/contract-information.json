@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x22d4002028f537599bE9f666d1c4Fa138522f9c8",
+  "decimals": 18,
+  "name": "Platypus",
+  "symbol": "PTP",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Platypus' AMM facilitates seamless exchange between pegged assets. Its single-sided liquidity provision redefines the way AMM works.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x22d4002028f537599bE9f666d1c4Fa138522f9c8/logo.png",
+  "tokenColor": "#f3fafd"
+}

@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x94d649E017625dE1Aa04733aA046dE0161DF18eF",
+  "decimals": 18,
+  "name": "King Shares",
+  "symbol": "KSHARE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x94d649E017625dE1Aa04733aA046dE0161DF18eF/logo.png",
+  "tokenColor": "#cddcec"
+}

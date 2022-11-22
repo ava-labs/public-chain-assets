@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB",
+  "decimals": 8,
+  "name": "Wrapped BTC",
+  "symbol": "WBTC",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png",
+  "tokenColor": "#edebf2"
+}

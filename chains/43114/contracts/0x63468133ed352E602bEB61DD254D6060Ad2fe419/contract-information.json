@@ -1,0 +1,11 @@
+{
+  "chainId": 43114,
+  "address": "0x63468133ed352E602bEB61DD254D6060Ad2fe419",
+  "decimals": 18,
+  "name": "StakedThorus",
+  "symbol": "sTHO",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "sTHO is the staked receipt token for Thorus’ native utility and governance token THO.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/68b1267/chains/43114/contracts/0x63468133ed352E602bEB61DD254D6060Ad2fe419/logo.png"
+}

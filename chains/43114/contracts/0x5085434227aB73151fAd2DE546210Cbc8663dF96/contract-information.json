@@ -1,0 +1,12 @@
+{
+  "address": "0x5085434227aB73151fAd2DE546210Cbc8663dF96",
+  "chainId": 43114,
+  "name": "Metaderby token",
+  "symbol": "DBY",
+  "decimals": 18,
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "MetaDerby is a horse racing and breeding inspired metaverse where anyone can earn tokens through skilled gameplay and contribution to building the MetaDerby-verse.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x5085434227aB73151fAd2DE546210Cbc8663dF96/logo.png",
+  "tokenColor": "#fbda65"
+}

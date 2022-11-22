@@ -1,0 +1,12 @@
+{
+  "address": "0x78Ea3fef1c1f07348199Bf44f45b803b9B0Dbe28",
+  "name": "FLY",
+  "symbol": "FLY",
+  "contractType": "ERC-20",
+  "decimals": 18,
+  "resourceLinks": [],
+  "chainId": 43114,
+  "description": "Hoppers Game is an idle game where players stake their Hopper NFTs in different adventures to earn $FLY.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x78Ea3fef1c1f07348199Bf44f45b803b9B0Dbe28/logo.png",
+  "tokenColor": "#deeff6"
+}

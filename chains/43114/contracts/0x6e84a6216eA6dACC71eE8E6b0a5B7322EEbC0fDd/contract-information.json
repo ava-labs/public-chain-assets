@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+  "decimals": 18,
+  "name": "JoeToken",
+  "symbol": "JOE",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
+  "tokenColor": "#e9e9e2"
+}

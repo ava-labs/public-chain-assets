@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed",
+  "decimals": 18,
+  "name": "AVME",
+  "symbol": "AVME",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "AVME is a decentralized security protocol for malicious content detection and protection against malware. AVME accomplishes this by combining two technologies that can be integrated with blockchain to deliver zero-trust and fully decentralized applications. These include sandbox nodes and virus detection through artificial intelligence/machine learning (AI/ML). ",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png",
+  "tokenColor": "#6ac6f3"
+}

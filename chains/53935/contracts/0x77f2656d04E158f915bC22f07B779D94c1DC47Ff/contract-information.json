@@ -1,0 +1,12 @@
+{
+  "address": "0x77f2656d04E158f915bC22f07B779D94c1DC47Ff",
+  "decimals": 18,
+  "name": "xJEWEL",
+  "symbol": "xJEWEL",
+  "description": "",
+  "assetType": "Unlimited Cap",
+  "contractType": "ERC-20",
+  "chainId": 53935,
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/53935/contracts/0x77f2656d04E158f915bC22f07B779D94c1DC47Ff/logo.png",
+  "tokenColor": "#d6db60"
+}

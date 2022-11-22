@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x1f1E7c893855525b303f99bDF5c3c05Be09ca251",
+  "decimals": 18,
+  "name": "Synapse",
+  "symbol": "SYN",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Synapse is a cross-chain layer ∞ protocol powering interoperability between blockchains.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251/logo.png",
+  "tokenColor": "#c14aea"
+}

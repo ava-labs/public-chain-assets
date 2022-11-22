@@ -1,0 +1,11 @@
+{
+  "chainId": 43114,
+  "address": "0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6",
+  "decimals": 18,
+  "name": "Jewels",
+  "symbol": "JEWEL",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/21f1218/chains/43114/contracts/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png"
+}

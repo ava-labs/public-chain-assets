@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21",
+  "decimals": 18,
+  "name": "Oh! Finance",
+  "symbol": "OH",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Oh! Finance is an optimized yield-generation protocol, focused on reducing risk and increasing volume exposure.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21/logo.png",
+  "tokenColor": "#fef8fc"
+}

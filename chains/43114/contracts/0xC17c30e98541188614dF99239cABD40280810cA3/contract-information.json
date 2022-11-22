@@ -1,0 +1,12 @@
+{
+  "address": "0xC17c30e98541188614dF99239cABD40280810cA3",
+  "name": "EverRise",
+  "symbol": "RISE",
+  "contractType": "ERC-20",
+  "decimals": 18,
+  "resourceLinks": [],
+  "chainId": 43114,
+  "description": "EverRise is a blockchain technology company that offers bridging and security solutions across blockchains through an ecosystem of decentralized applications. The EverRise token (RISE) is a multi-chain, collateralized cryptocurrency that powers the EverRise dApp ecosystem.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/cb14a1f/chains/43114/contracts/0xC17c30e98541188614dF99239cABD40280810cA3/logo.png",
+  "tokenColor": "#f3457e"
+}

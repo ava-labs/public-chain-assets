@@ -1,0 +1,12 @@
+{
+  "address": "0x769bfeb9fAacD6Eb2746979a8dD0b7e9920aC2A4",
+  "chainId": 43114,
+  "name": "zJoe",
+  "symbol": "zJoe",
+  "decimals": 18,
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Vector Finance is a ve-token yield optimizer building on top of Platypus Finance and Trader Joe. Vector enables users to generate boosted yields on these platforms without having to stake their native token.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x769bfeb9fAacD6Eb2746979a8dD0b7e9920aC2A4/logo.png",
+  "tokenColor": "#dcc7ba"
+}

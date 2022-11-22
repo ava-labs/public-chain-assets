@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xf03Dccaec9A28200A6708c686cf0b8BF26dDc356",
+  "decimals": 18,
+  "name": "YDragon",
+  "symbol": "YDR",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xf03Dccaec9A28200A6708c686cf0b8BF26dDc356/logo.png",
+  "tokenColor": "#fb4947"
+}

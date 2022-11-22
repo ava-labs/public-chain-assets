@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
+  "decimals": 6,
+  "name": "UST (Wormhole)",
+  "symbol": "UST",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "Wormhole is a generic message passing protocol that connects to multiple chains including Ethereum, Solana, Terra, Binance Smart Chain, Polygon, Avalanche and Oasis.",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo.png",
+  "tokenColor": "#4c8df7"
+}

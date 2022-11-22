@@ -1,0 +1,12 @@
+{
+  "chainId": 43114,
+  "address": "0x99519AcB025a0e0d44c3875A4BbF03af65933627",
+  "decimals": 18,
+  "name": "yearn.finance",
+  "symbol": "YFI",
+  "contractType": "ERC-20",
+  "resourceLinks": [],
+  "description": "",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x99519AcB025a0e0d44c3875A4BbF03af65933627/logo.png",
+  "tokenColor": "#f1f8ff"
+}
