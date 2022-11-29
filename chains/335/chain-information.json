@@ -16,7 +16,7 @@
     "symbol": "JEWEL",
     "description": "JEWEL is the central token on the DFK Subnet and used to pay gas for all transactions. While it is not natively minted on the DFK Subnet, it is integral to the subnet's function.",
     "decimals": 18,
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/335/token-logo.png"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e234186/chains/335/token-logo.png"
   },
   "utilityAddresses": {
     "multicall": "0x7D5746CcBD080a512Af2e8b1eFEFD61fBD29023D"
@@ -24,7 +24,7 @@
   "pricingProviders": {
     "coingecko": {
       "assetPlatformId": "defi-kingdoms-blockchain",
-      "nativeTokenId": "defi-kingdoms"
+      "nativeTokenId": "wjewel"
     }
   },
   "officialSite": "https://defikingdoms.com/crystalvale/",
@@ -52,5 +52,5 @@
   ],
   "network": "avalanche",
   "primaryColor": "#53c26e",
-  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/335/chain-logo.png"
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e234186/chains/335/chain-logo.png"
 }
