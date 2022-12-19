@@ -1,0 +1,34 @@
+{
+  "chainName": "<CHAIN NAME>",
+  "description": "<SHORT ONE LINE DESCRIPTION OF THE CHAIN>",
+  "chainId": ######,
+  "platformChainId": "<P CHAIN ID>",
+  "subnetId": "<SUBNET ID>",
+  "vmId": "<VM ID>",
+  "vmName": "EVM",
+  "subnetExplorerUriId": "<SHORT-CHAIN-NAME>",
+  "explorerUrl": "https://subnets.avax.network/<SHORT-CHAIN-NAME>",
+  "rpcUrl": "https://subnets.avax.network/<SHORT-URL-TAG>/testnet/rpc",
+  "wsUrl": "wss://subnets.avax.network/<SHORT-URL-TAG>/testnet/ws",
+  "isTestnet": true,
+  "networkToken": {
+    "name": "<TOKEN-NAME>",
+    "symbol": "<TOKEN-TICKER>",
+    "description": "<NETWORK NATIVE TOKEN DESCRIPTION>",
+    "decimals": 18 OR 9,
+    "logoUri": "<URL FOR TOKEN LOGO>"
+  },
+  "utilityAddresses": {
+    "multicall": "<ADDRESS OF DEPLOYED MULTICALL CONTRACT>"
+  },
+  "officialSite": "<WEBSITE>",
+  "resourceLinks": [
+    {
+      "type": "Twitter",
+      "url": "https://twitter.com/<OFFICIAL-TWITTER>"
+    }
+  ],
+  "network": "avalanche",
+  "primaryColor": "#85BC22",
+  "logoUri": "URL FOR CHAIN LOGO"
+}
