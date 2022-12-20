@@ -1,0 +1,10 @@
+{
+  "chainName": "JPOP test Subnet",
+  "description": "testing, testing...",
+  "chainId": 321654987,
+  "platformChainId": "2AFKhMXMViQvEXg8oNgGbsuWL8Wm3SaUGYHb48Tj7QCBRKo4k8",
+  "subnetId": "BKHSoGxzuT8LrZLjQyRFXk4mENVxxH3pwHAb25EKv2tsT32QC",
+  "vmId": "WcwqtgMrCEgcT1J7sBG4h4M9EqnwgGPBptWUNyqcuJvCt616H",
+  "vmName": "EVM",
+  "isTestnet": true
+}
