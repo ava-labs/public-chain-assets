@@ -1,0 +1,9 @@
+{
+  "chainName": "<CHAIN NAME>",
+  "chainId": ######,
+  "platformChainId": "<P CHAIN ID>",
+  "subnetId": "<SUBNET ID>",
+  "vmId": "<VM ID>",
+  "vmName": "EVM",
+  "isTestnet": true
+}
