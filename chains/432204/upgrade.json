@@ -1,0 +1,12 @@
+{
+    "precompileUpgrades": [
+      {
+        "rewardManagerConfig": {
+          "blockTimestamp": 1674496800,
+          "initialRewardConfig": {
+            "rewardAddress": "0xB2F0b64B6AaD197151d7BcCa515E135C65039E12"
+          }
+        }
+      }
+    ]
+}
