@@ -12,6 +12,13 @@
     "tokenColor": "#d5ebee"
   },
   {
+    "address": "0x0f85fdf6c561C42d6b46d0E27ea6Aa9Bf9476B3f",
+    "name": "ItemVendor",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
     "address": "0x11C3b7bADC5359242c34C68C1F0f071bFf49a3D8",
     "chainId": 53935,
     "name": "Honk",
@@ -31,6 +38,36 @@
     "tokenColor": "#dfc37f"
   },
   {
+    "address": "0x1990F87d6BC9D9385917E3EDa0A7674411C3Cd7F",
+    "name": "DFK Pets",
+    "symbol": "DFKPETS",
+    "description": "",
+    "assetType": "NFT",
+    "contractType": "ERC-721",
+    "chainId": 53935
+  },
+  {
+    "address": "0x2542e1Ce063FED3b5Aa81936c5a8f6Eeccaa6B4A",
+    "name": "Alchemist",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
+    "address": "0x280F9Bf2ae2B1AdCe6Cc611F6FD7AE3817888762",
+    "name": "Graveyard",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
+    "address": "0x2DC1b89d20878aD9dc06e7e165f340d6CCa78475",
+    "name": "GoldPot",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
     "address": "0x360d6DD540E3448371876662FBE7F1aCaf08c5Ab",
     "decimals": 6,
     "name": "Terra USD",
@@ -41,6 +78,13 @@
     "assetType": "Stablecoin",
     "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e9ef54a/chains/53935/contracts/0x360d6DD540E3448371876662FBE7F1aCaf08c5Ab/logo.png",
     "tokenColor": "#4c90fa"
+  },
+  {
+    "address": "0x36829ba54e6A0f11fB6e5A45aC5aD2742ec86a0B",
+    "name": "PetBridge",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
   },
   {
     "address": "0x3AD9DFE640E1A9Cc1D9B0948620820D975c3803a",
@@ -70,6 +114,34 @@
     "contractType": "ERC-20"
   },
   {
+    "address": "0x49744F76caA3B63CccE9CE7de5C8282C92c891e5",
+    "name": "PetAuction",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
+    "address": "0x50142D9e3FA508C424B3ef37BD195b4086CC3DCA",
+    "name": "PetExchange",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
+    "address": "0x501CdC4ef10b63219704Bf6aDb785dfccb06deE2",
+    "name": "ItemBridge",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
+    "address": "0x564D03ccF4A9634D97100Ec18d7770A3C4E45541",
+    "name": "PetHatching",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
     "address": "0x57Dec9cC7f492d6583c773e2E7ad66dcDc6940Fb",
     "name": "MasterGardener",
     "chainId": 53935,
@@ -84,6 +156,13 @@
     "contractType": "Other"
   },
   {
+    "address": "0x68f6C64786cfCb35108986041D1009c9d27bde22",
+    "name": "CrystalCore",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
     "address": "0x6AC38A4C112F125eac0eBDbaDBed0BC8F4575d0d",
     "decimals": 18,
     "name": "JEWEL-xJEWEL LP Token",
@@ -93,11 +172,32 @@
     "contractType": "ERC-20"
   },
   {
+    "address": "0x6E473afAD39150FfDC18Aab5D436C0cce06D44B2",
+    "name": "RaffleWholesale",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
     "address": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
     "name": "Layer Zero Relayer",
     "chainId": 53935,
     "description": "",
     "contractType": "Other"
+  },
+  {
+    "address": "0x70908Fd7278aab183C7EfC4f3449184E98e2e305",
+    "name": "DarkSummoning",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
+    "address": "0x739B1666c2956f601f095298132773074c3E184b",
+    "name": "HeroBridge",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
   },
   {
     "address": "0x77f2656d04E158f915bC22f07B779D94c1DC47Ff",
@@ -126,11 +226,41 @@
     "contractType": "Other"
   },
   {
+    "address": "0x8101CfFBec8E045c3FAdC3877a1D30f97d301209",
+    "name": "AssistingAuction",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
+    "address": "0x89789a580fdE00319493BdCdB6C65959DAB1e517",
+    "name": "DuelRankClaim",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
     "address": "0x947873092dc57C1A70704033c41cB110f4462a8B",
     "name": "Airdrop Claim",
     "chainId": 53935,
     "description": "",
     "contractType": "Other"
+  },
+  {
+    "address": "0x9EEaBBcf42F0c4900d302544Cce599811C2De2b9",
+    "name": "DFKDuelS2",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
+    "address": "0x9ed2c155632C042CB8bC20634571fF1CA26f5742",
+    "name": "cJEWEL",
+    "symbol": "cJEWEL",
+    "description": "",
+    "assetType": "Unlimited Cap",
+    "contractType": "Other",
+    "chainId": 53935
   },
   {
     "address": "0x9f378F48d0c1328fd0C80d7Ae544C6CadB5Ba99E",
@@ -164,6 +294,13 @@
     "tokenColor": "#fefdfd"
   },
   {
+    "address": "0xBc36D18662Bb97F9e74B1EAA1B752aA7A44595A7",
+    "name": "HeroSummoning",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
     "address": "0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260",
     "decimals": 18,
     "name": "Wrapped JEWEL",
@@ -176,6 +313,13 @@
     "tokenColor": "#d6db60"
   },
   {
+    "address": "0xD507b6b299d9FC835a0Df92f718920D13fA49B47",
+    "name": "MeditationCircle",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
     "address": "0xE05c976d3f045D0E6E7A6f61083d98A15603cF6A",
     "name": "Synapse Bridge",
     "chainId": 53935,
@@ -183,6 +327,13 @@
     "contractType": "Other",
     "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/53935/contracts/0xE05c976d3f045D0E6E7A6f61083d98A15603cF6A/logo.png",
     "tokenColor": "#985dff"
+  },
+  {
+    "address": "0xE959cbddB8616BDFFa5464279664CCbb9EA10317",
+    "name": "Pasture",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
   },
   {
     "address": "0xE9AbfBC143d7cef74b5b793ec5907fa62ca53154",
@@ -199,6 +350,15 @@
     "contractType": "Other"
   },
   {
+    "address": "0xEb9B61B145D6489Be575D3603F4a704810e143dF",
+    "name": "DFK Hero",
+    "symbol": "DFKHERO",
+    "description": "",
+    "assetType": "NFT",
+    "contractType": "ERC-721",
+    "chainId": 53935
+  },
+  {
     "address": "0xF3EabeD6Bd905e0FcD68FC3dBCd6e3A4aEE55E98",
     "decimals": 18,
     "name": "JEWEL-AVAX LP Token",
@@ -208,6 +368,20 @@
     "contractType": "ERC-20"
   },
   {
+    "address": "0xc20a268bc7c4dB28f1f6e1703676513Db06C1B93",
+    "name": "PowerUpManager",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
+    "address": "0xc32A0e963e50AAAED273A75425fC39902b0d0b3b",
+    "name": "StoneCarver",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
     "address": "0xc390fAA4C7f66E4D62E59C231D5beD32Ff77BEf0",
     "name": "HeroAuction",
     "chainId": 53935,
@@ -215,10 +389,24 @@
     "contractType": "Other"
   },
   {
+    "address": "0xd8D7CE8921490b75EC489bd076AD0f27DC765675",
+    "name": "RaffleMaster",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
+  },
+  {
     "address": "0xe4911B47ff0a1cbF5A4edDaC58fbc48ae09c8993",
     "name": "Jeweler",
     "chainId": 53935,
     "description": "",
     "contractType": "Other"
+  },
+  {
+    "address": "0xf724FE22b45D519D149477aA2eC5348Cee08Cae3",
+    "name": "DFKDuelS1",
+    "description": "",
+    "contractType": "Other",
+    "chainId": 53935
   }
 ]
