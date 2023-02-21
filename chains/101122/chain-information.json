@@ -1,0 +1,39 @@
+{
+  "chainName": "Intain Markets Subnet",
+  "description": "Intain is a debt capital markets platform built on blockchain that ensures trust, transparency and efficiency in structured finance",
+  "chainId": 101122,
+  "platformChainId": "2ALtzRYgRpRWnTgjdrMArkMvU6RTpcjs7VWmupqYaPrHDrHLSd",
+  "subnetId": "QSmxVmeZ1t2fBQzMAgkuMLMSfVSjasKc2WyiFNMJ9db3FcQtJ",
+  "vmId": "ZLi5JUuvPV4QS326oP38KmUFbMtgtiaCEpSyBK7bGRvFsTdDV",
+  "vmName": "EVM",
+  "subnetExplorerUriId": "intain-markets",
+  "explorerUrl": "https://subnets-test.avax.network/intain-markets",
+  "rpcUrl": "https://subnets.avax.network/intain/testnet/rpc",
+  "wsUrl": "wss://subnets.avax.network/intain/testnet/ws",
+  "isTestnet": true,
+  "networkToken": {
+    "name": "IMA",
+    "symbol": "IMA",
+    "description": "IMA is the central token on the Intain Markets Subnet and used to pay gas for all transactions.",
+    "decimals": 18,
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/6eef69b/chains/101122/token-logo.png"
+  },
+  "utilityAddresses": {
+    "multicall": "0xeED9DfB2Fdd2081b110a8b33b76664C73aD07045"
+  },
+  "pricingProviders": {},
+  "officialSite": "https://intainft.com/",
+  "resourceLinks": [
+    {
+      "type": "Twitter",
+      "url": "https://twitter.com/intainft"
+    },
+    {
+      "type": "LinkedIn",
+      "url": "https://www.linkedin.com/company/intain/"
+    }
+  ],
+  "network": "avalanche",
+  "primaryColor": "#018E82",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/6eef69b/chains/101122/chain-logo.png"
+}

@@ -1,0 +1,28 @@
+{
+  "chainName": "D-Chain",
+  "description": "D-Chain is a private blockchain with an unique architecture that offers high performance and scalability for corporates. D-Wallet is the first application developed on the D-Chain, for an enterprise-based loyalty program.",
+  "chainId": 11115,
+  "platformChainId": "4DGvhEmW1HwQtoDxgwUy2uNmf8GKtQtD1F8wunfGU6u1hhKiv",
+  "subnetId": "TVaAr9i1UzGFtRjykkvqLwKhGfj7h8BSthFTYkmGj8RNCrSc5",
+  "vmId": "srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy",
+  "vmName": "EVM",
+  "subnetExplorerUriId": "dogus",
+  "explorerUrl": "https://subnets-test.avax.network/dogus",
+  "rpcUrl": "https://subnets.avax.network/dogus/testnet/rpc",
+  "wsUrl": "wss://subnets.avax.network/dogus/testnet/ws",
+  "isTestnet": true,
+  "networkToken": {
+    "name": "DOINX",
+    "symbol": "DOINX",
+    "decimals": 18,
+    "description": "DOINX is the central token on the D-Chain and used to pay gas for all transactions.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/70ffc12/chains/11115/token-logo.png"
+  },
+  "utilityAddresses": {
+    "multicall": "0x540B2F360109F02B7D0904dC3E5BCCF1d2aF9946"
+  },
+  "officialSite": "https://www.d-teknoloji.com.tr/",
+  "network": "avalanche",
+  "primaryColor": "#407BBF",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/70ffc12/chains/11115/chain-logo.png"
+}

@@ -1,0 +1,38 @@
+{
+  "chainName": "Loco Legends Subnet",
+  "description": "Loco Legends is India's first NFT marketplace for eSports that will mint streamer collectibles with online and offline perks.",
+  "chainId": 1995,
+  "platformChainId": "2tLmRnkJAwRYRi923XPVMfFNA96dk88Vh5GSMVKZaN8os6GveR",
+  "subnetId": "ggCWzZJEmdGy8vsPctdwZNoSRG3rvbHrLQNgUWzNEiy1Cesow",
+  "vmId": "afS5LZswxdcVsuz1RmZkf6eX9xRJuAJYu6NjK6du9WRWe21ZJ",
+  "vmName": "EVM",
+  "subnetExplorerUriId": "loco-legends",
+  "explorerUrl": "https://subnets-test.avax.network/loco-legends",
+  "rpcUrl": "https://subnets.avax.network/loco-legends/testnet/rpc",
+  "wsUrl": "wss://subnets.avax.network/loco-legends/testnet/ws",
+  "isTestnet": true,
+  "networkToken": {
+    "name": "GG",
+    "symbol": "GG",
+    "decimals": 18,
+    "description": "GG is the central token on the Loco Legends Subnet and used to pay gas for all transactions.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/9c6df66/chains/1995/token-logo.png"
+  },
+  "utilityAddresses": {
+    "multicall": "0x5f3661B9606793b8BD0B8b822ef5075CEDD55C78"
+  },
+  "officialSite": "https://locolegends.com/",
+  "resourceLinks": [
+    {
+      "type": "Twitter",
+      "url": "https://twitter.com/LegendsByLoco"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/LegendsByLoco"
+    }
+  ],
+  "network": "avalanche",
+  "primaryColor": "#F9750E",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/9c6df66/chains/1995/chain-logo.png"
+}

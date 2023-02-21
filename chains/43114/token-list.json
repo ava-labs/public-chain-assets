@@ -694,6 +694,18 @@
   },
   {
     "chainId": 43114,
+    "address": "0x431289cb3a2eC0875351e33767e175c816C73B3A",
+    "decimals": 18,
+    "name": "Alfheim Token",
+    "symbol": "AFM",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Alfheim Finance is a decentralized application composed of yield farming, NFT, and gamefi.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/fa29225/chains/43114/contracts/0x431289cb3a2eC0875351e33767e175c816C73B3A/logo.png",
+    "tokenColor": "#6ba1fb"
+  },
+  {
+    "chainId": 43114,
     "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
     "decimals": 18,
     "name": "JPY Coin",
@@ -944,6 +956,18 @@
   },
   {
     "chainId": 43114,
+    "address": "0x511D35c52a3C244E7b8bd92c0C297755FbD89212",
+    "decimals": 18,
+    "name": "Beta Token",
+    "symbol": "BETA",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Beta Finance is a cross-chain permissionless money market protocol for lending, borrowing, and shorting crypto.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e4e1830/chains/43114/contracts/0x511D35c52a3C244E7b8bd92c0C297755FbD89212/logo.png",
+    "tokenColor": "#dd99ba"
+  },
+  {
+    "chainId": 43114,
     "address": "0x51e48670098173025C477D9AA3f0efF7BF9f7812",
     "decimals": 18,
     "name": "DegenX",
@@ -953,6 +977,18 @@
     "description": "The DegenX ecosystem will empowers its holders and users to gain a passive income stream by providing services and tooling for everyone who want to settle in the DeFi space.",
     "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x51e48670098173025C477D9AA3f0efF7BF9f7812/logo.png",
     "tokenColor": "#ff6c22"
+  },
+  {
+    "address": "0x5377CAF64CF02c1320c66030fbe3773431377daC",
+    "name": "ANT Token",
+    "symbol": "ANT",
+    "contractType": "ERC-20",
+    "decimals": 16,
+    "resourceLinks": [],
+    "chainId": 43114,
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e4e1830/chains/43114/contracts/0x5377CAF64CF02c1320c66030fbe3773431377daC/logo.png",
+    "tokenColor": "#10fbff"
   },
   {
     "chainId": 43114,
@@ -1205,7 +1241,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/a0a2d1a/chains/43114/contracts/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/6eef69b/chains/43114/contracts/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/logo.png",
     "tokenColor": "#e6d1d1"
   },
   {
@@ -1219,6 +1255,18 @@
     "description": "",
     "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9/logo.png",
     "tokenColor": "#04d6ff"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x6AFD5A1ea4b793CC1526d6Dc7e99A608b356eF7b",
+    "decimals": 18,
+    "name": "STORM Token",
+    "symbol": "STORM",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e743e5e/chains/43114/contracts/0x6AFD5A1ea4b793CC1526d6Dc7e99A608b356eF7b/logo.png",
+    "tokenColor": "#378fff"
   },
   {
     "chainId": 43114,
@@ -1377,6 +1425,18 @@
     "assetType": "Stablecoin",
     "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo.png",
     "tokenColor": "#37df37"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x788AE3b5D153d49F8DB649aacbA1857f744b739e",
+    "decimals": 18,
+    "name": "KITTY",
+    "symbol": "KITTY",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e4e1830/chains/43114/contracts/0x788AE3b5D153d49F8DB649aacbA1857f744b739e/logo.png",
+    "tokenColor": "#f6eff5"
   },
   {
     "address": "0x78Ea3fef1c1f07348199Bf44f45b803b9B0Dbe28",
@@ -2614,6 +2674,18 @@
     "description": "",
     "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/a0a2d1a/chains/43114/contracts/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
     "tokenColor": "#f9fdfd"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xc763f8570A48c4c00C80B76107cbE744dDa67b79",
+    "decimals": 18,
+    "name": "BetSwirl Token",
+    "symbol": "BETS",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e743e5e/chains/43114/contracts/0xc763f8570A48c4c00C80B76107cbE744dDa67b79/logo.png",
+    "tokenColor": "#fefefe"
   },
   {
     "chainId": 43114,
