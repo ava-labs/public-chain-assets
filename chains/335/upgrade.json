@@ -2,9 +2,7 @@
   "precompileUpgrades": [
     {
       "feeManagerConfig": {
-        "adminAddresses": [
-          "0x6D4CFd4e19B30050c8963ebf61F4d3cce5641a79"
-        ],
+        "adminAddresses": ["0x6D4CFd4e19B30050c8963ebf61F4d3cce5641a79"],
         "blockTimestamp": 1661619600
       }
     },
@@ -12,6 +10,19 @@
       "contractDeployerAllowListConfig": {
         "blockTimestamp": 1666368000,
         "disable": true
+      }
+    }
+  ],
+  "stateUpgrades": [
+    {
+      "blockTimestamp": 1678744800,
+      "accounts": {
+        "0xa5c47B4bEb35215fB0CF0Ea6516F9921591c3aCE": {
+          "storage": {
+            "0x0000000000000000000000000000000000000000000000000000000000000007": "0x000000000000000000000000000000000000000000cecb8f27f4200f3a000000",
+            "0x000000000000000000000000000000000000000000000000000000000000000b": "0x00000000000000000000000000000000000000000069E10DE76676D080000000"
+          }
+        }
       }
     }
   ]
