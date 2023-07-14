@@ -1265,7 +1265,7 @@
     "contractType": "ERC-20",
     "resourceLinks": [],
     "description": "",
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/e743e5e/chains/43114/contracts/0x6AFD5A1ea4b793CC1526d6Dc7e99A608b356eF7b/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/27fb75d/chains/43114/contracts/0x6AFD5A1ea4b793CC1526d6Dc7e99A608b356eF7b/logo.png",
     "tokenColor": "#378fff"
   },
   {
@@ -1291,6 +1291,18 @@
     "description": "",
     "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo.png",
     "tokenColor": "#dfedfe"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x6D923f688C7FF287dc3A5943CAeefc994F97b290",
+    "decimals": 18,
+    "name": "SmarterCoin",
+    "symbol": "SMRTr",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "The SmartCoin Project is a multi-phase yield farming protocol on Avalanche (AVAX) with an innovative self-feeding tokenomics system and a 100% fair launch.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/5a34393/chains/43114/contracts/0x6D923f688C7FF287dc3A5943CAeefc994F97b290/logo.png",
+    "tokenColor": "#d86391"
   },
   {
     "chainId": 43114,
@@ -2792,6 +2804,18 @@
     "description": "",
     "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43114/contracts/0xd9D90f882CDdD6063959A9d837B05Cb748718A05/logo.png",
     "tokenColor": "#3d9dcc"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604",
+    "decimals": 12,
+    "name": "MiniYAK",
+    "symbol": "mYAK",
+    "contractType": "ERC-20",
+    "resourceLinks": [],
+    "description": "Mini YAK (mYAK) is a wrapped version of YAK. Mini Yak introduces no changes to the YAK supply or tokenomics.",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/5a34393/chains/43114/contracts/0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604/logo.png",
+    "tokenColor": "#00d064"
   },
   {
     "chainId": 43114,

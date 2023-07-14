@@ -1,0 +1,53 @@
+{
+  "chainName": "Shrapnel Subnet",
+  "description": "The Shrapnel Subnet is the default blockchain on Avalanche used for trustworthy, transparent, and interoperable content, commerce, and community for Shrapnel, a AAA FPS extraction shooter.",
+  "chainId": 2044,
+  "platformChainId": "2tdRBvNEUhoD6ZWYF9b5NBdj5hHwWPfvSq1EnzvV8QU2XjLNy9",
+  "subnetId": "Cv1gyKNUtPNAtFw8YcjbsD4a3HNRbNvinY7t2gnGK4J54rQK3",
+  "vmId": "spwf44sL7fXJDwxthqSH9S255fgLRZP9eTFpuAGaE8Q7PyZjL",
+  "vmName": "EVM",
+  "subnetExplorerUriId": "shrapnel",
+  "explorerUrl": "https://subnets.avax.network/shrapnel",
+  "rpcUrl": "https://subnets.avax.network/shrapnel/mainnet/rpc",
+  "isTestnet": false,
+  "networkToken": {
+    "name": "SHRAPGAS",
+    "symbol": "SHRAPGAS",
+    "description": "SHRAPGAS the native token on Shrapnel Subnet and is used to pay gas for all transactions.",
+    "decimals": 18,
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/0a98bbf/chains/2044/token-logo.png"
+  },
+  "utilityAddresses": {
+    "multicall": "0xd402298a793948698b9a63311404FBBEe944eAfD"
+  },
+  "officialSite": "https://www.shrapnel.com/",
+  "resourceLinks": [
+    {
+      "type": "Twitter",
+      "url": "https://twitter.com/playshrapnel"
+    },
+    {
+      "type": "Discord",
+      "url": "https://discord.com/invite/shrapnel"
+    },
+    {
+      "type": "Whitepaper",
+      "url": "https://www.shrapnel.com/Shrapnel-White-Paper.pdf"
+    },
+    {
+      "type": "Whitepaper",
+      "url": "https://www.shrapnel.com/Shrapnel-Economy-Paper.pdf"
+    },
+    {
+      "type": "LinkedIn",
+      "url": "https://www.linkedin.com/company/shrapnel-studio"
+    },
+    {
+      "type": "Support",
+      "url": "https://shrapnelhelp.zendesk.com/hc/en-us"
+    }
+  ],
+  "network": "avalanche",
+  "primaryColor": "#FDB928",
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/0a98bbf/chains/2044/chain-logo.png"
+}
